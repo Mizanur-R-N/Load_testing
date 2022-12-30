@@ -1,0 +1,1309 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1672383293323,5379,HomePage,200,OK,User 1-5,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,687,0,353
+1672383293323,687,HomePage-0,301,Moved Permanently,User 1-5,text,true,,947,122,100,100,http://www.banglapuzzle.com/,687,0,353
+1672383294012,4690,HomePage-1,200,OK,User 1-5,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2683,0,890
+1672383293487,5814,HomePage,200,OK,User 1-28,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,638,0,349
+1672383293487,638,HomePage-0,301,Moved Permanently,User 1-28,text,true,,947,122,100,100,http://www.banglapuzzle.com/,638,0,349
+1672383294125,5176,HomePage-1,200,OK,User 1-28,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2650,0,696
+1672383293590,6477,HomePage,200,OK,User 1-36,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,593,0,288
+1672383293590,593,HomePage-0,301,Moved Permanently,User 1-36,text,true,,947,122,100,100,http://www.banglapuzzle.com/,593,0,288
+1672383294183,5884,HomePage-1,200,OK,User 1-36,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2559,0,723
+1672383293518,7238,HomePage,200,OK,User 1-31,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,665,0,326
+1672383293518,665,HomePage-0,301,Moved Permanently,User 1-31,text,true,,947,122,100,100,http://www.banglapuzzle.com/,665,0,326
+1672383294184,6572,HomePage-1,200,OK,User 1-31,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,3066,0,628
+1672383293786,7060,HomePage,200,OK,User 1-56,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,651,0,333
+1672383293786,651,HomePage-0,301,Moved Permanently,User 1-56,text,true,,947,122,100,100,http://www.banglapuzzle.com/,651,0,333
+1672383294438,6408,HomePage-1,200,OK,User 1-56,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,4557,0,698
+1672383293380,7521,HomePage,200,OK,User 1-17,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,626,0,297
+1672383293380,626,HomePage-0,301,Moved Permanently,User 1-17,text,true,,947,122,100,100,http://www.banglapuzzle.com/,626,0,297
+1672383294007,6894,HomePage-1,200,OK,User 1-17,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2693,0,920
+1672383293430,7506,HomePage,200,OK,User 1-22,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,579,0,285
+1672383293430,579,HomePage-0,301,Moved Permanently,User 1-22,text,true,,947,122,100,100,http://www.banglapuzzle.com/,579,0,285
+1672383294009,6927,HomePage-1,200,OK,User 1-22,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,3597,0,903
+1672383293449,7809,HomePage,200,OK,User 1-24,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,605,0,300
+1672383293449,605,HomePage-0,301,Moved Permanently,User 1-24,text,true,,947,122,100,100,http://www.banglapuzzle.com/,605,0,300
+1672383294055,7203,HomePage-1,200,OK,User 1-24,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2572,0,768
+1672383299301,2147,LoginPage,200,OK,User 1-28,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,831,0,409
+1672383299301,832,LoginPage-0,301,Moved Permanently,User 1-28,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,831,0,409
+1672383300133,409,LoginPage-1,301,Moved Permanently,User 1-28,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,409,0,0
+1672383300542,906,LoginPage-2,200,OK,User 1-28,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,765,0,0
+1672383293640,7863,HomePage,200,OK,User 1-41,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,560,0,278
+1672383293640,560,HomePage-0,301,Moved Permanently,User 1-41,text,true,,947,122,100,100,http://www.banglapuzzle.com/,560,0,278
+1672383294201,7302,HomePage-1,200,OK,User 1-41,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,5781,0,692
+1672383293439,8121,HomePage,200,OK,User 1-23,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,615,0,310
+1672383293439,615,HomePage-0,301,Moved Permanently,User 1-23,text,true,,947,122,100,100,http://www.banglapuzzle.com/,615,0,310
+1672383294055,7505,HomePage-1,200,OK,User 1-23,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2688,0,716
+1672383293855,7971,HomePage,200,OK,User 1-63,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,672,0,331
+1672383293855,672,HomePage-0,301,Moved Permanently,User 1-63,text,true,,947,122,100,100,http://www.banglapuzzle.com/,672,0,331
+1672383294529,7297,HomePage-1,200,OK,User 1-63,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,3934,0,639
+1672383293371,8491,HomePage,200,OK,User 1-16,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,684,0,344
+1672383293371,684,HomePage-0,301,Moved Permanently,User 1-16,text,true,,947,122,100,100,http://www.banglapuzzle.com/,684,0,344
+1672383294055,7807,HomePage-1,200,OK,User 1-16,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2565,0,766
+1672383293510,8422,HomePage,200,OK,User 1-30,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,672,0,326
+1672383293510,672,HomePage-0,301,Moved Permanently,User 1-30,text,true,,947,122,100,100,http://www.banglapuzzle.com/,672,0,326
+1672383294182,7750,HomePage-1,200,OK,User 1-30,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2422,0,589
+1672383293390,8669,HomePage,200,OK,User 1-18,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,666,0,326
+1672383293390,666,HomePage-0,301,Moved Permanently,User 1-18,text,true,,947,122,100,100,http://www.banglapuzzle.com/,666,0,326
+1672383294056,8003,HomePage-1,200,OK,User 1-18,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,5412,0,873
+1672383293334,8765,HomePage,200,OK,User 1-12,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,678,0,343
+1672383293334,678,HomePage-0,301,Moved Permanently,User 1-12,text,true,,947,122,100,100,http://www.banglapuzzle.com/,678,0,343
+1672383294012,8087,HomePage-1,200,OK,User 1-12,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,6933,0,855
+1672383300070,2392,LoginPage,200,OK,User 1-36,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,769,0,400
+1672383300070,769,LoginPage-0,301,Moved Permanently,User 1-36,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,769,0,400
+1672383300839,385,LoginPage-1,301,Moved Permanently,User 1-36,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,385,0,0
+1672383301224,1238,LoginPage-2,200,OK,User 1-36,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,875,0,0
+1672383293323,9188,HomePage,200,OK,User 1-6,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,687,0,353
+1672383293323,687,HomePage-0,301,Moved Permanently,User 1-6,text,true,,947,122,100,100,http://www.banglapuzzle.com/,687,0,353
+1672383294011,8500,HomePage-1,200,OK,User 1-6,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,3239,0,811
+1672383293776,8866,HomePage,200,OK,User 1-55,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,587,0,280
+1672383293528,9114,HomePage,200,OK,User 1-32,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,654,0,312
+1672383293776,587,HomePage-0,301,Moved Permanently,User 1-55,text,true,,947,122,100,100,http://www.banglapuzzle.com/,587,0,280
+1672383293528,654,HomePage-0,301,Moved Permanently,User 1-32,text,true,,947,122,100,100,http://www.banglapuzzle.com/,654,0,312
+1672383294182,8460,HomePage-1,200,OK,User 1-32,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2518,0,589
+1672383294364,8278,HomePage-1,200,OK,User 1-55,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,4974,0,622
+1672383293953,8728,HomePage,200,OK,User 1-73,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,571,0,290
+1672383293953,571,HomePage-0,301,Moved Permanently,User 1-73,text,true,,947,122,100,100,http://www.banglapuzzle.com/,571,0,290
+1672383294524,8157,HomePage-1,200,OK,User 1-73,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,4589,0,639
+1672383293324,9423,HomePage,200,OK,User 1-2,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,683,0,351
+1672383293324,683,HomePage-0,301,Moved Permanently,User 1-2,text,true,,947,122,100,100,http://www.banglapuzzle.com/,683,0,351
+1672383294009,8738,HomePage-1,200,OK,User 1-2,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2792,0,927
+1672383294100,8683,HomePage,200,OK,User 1-88,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,624,0,336
+1672383294100,625,HomePage-0,301,Moved Permanently,User 1-88,text,true,,947,122,100,100,http://www.banglapuzzle.com/,624,0,336
+1672383294726,8057,HomePage-1,200,OK,User 1-88,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,3897,0,717
+1672383298706,4239,LoginPage,200,OK,User 1-5,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,408,0,0
+1672383298706,408,LoginPage-0,301,Moved Permanently,User 1-5,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,408,0,0
+1672383299114,1200,LoginPage-1,301,Moved Permanently,User 1-5,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,1200,0,0
+1672383300314,2631,LoginPage-2,200,OK,User 1-5,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1961,0,0
+1672383293986,9092,HomePage,200,OK,User 1-76,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,695,0,374
+1672383293986,695,HomePage-0,301,Moved Permanently,User 1-76,text,true,,947,122,100,100,http://www.banglapuzzle.com/,695,0,374
+1672383294685,8393,HomePage-1,200,OK,User 1-76,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,6424,0,753
+1672383300847,2380,LoginPage,200,OK,User 1-56,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,713,0,357
+1672383300847,713,LoginPage-0,301,Moved Permanently,User 1-56,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,713,0,357
+1672383301560,399,LoginPage-1,301,Moved Permanently,User 1-56,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,399,0,0
+1672383301960,1267,LoginPage-2,200,OK,User 1-56,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,832,0,0
+1672383293325,9902,HomePage,200,OK,User 1-10,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,684,0,352
+1672383293325,684,HomePage-0,301,Moved Permanently,User 1-10,text,true,,947,122,100,100,http://www.banglapuzzle.com/,684,0,352
+1672383294010,9217,HomePage-1,200,OK,User 1-10,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2879,0,861
+1672383300756,2638,LoginPage,200,OK,User 1-31,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,815,0,403
+1672383300756,815,LoginPage-0,301,Moved Permanently,User 1-31,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,815,0,403
+1672383301572,326,LoginPage-1,301,Moved Permanently,User 1-31,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,326,0,0
+1672383301898,1496,LoginPage-2,200,OK,User 1-31,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1180,0,0
+1672383294060,9513,HomePage,200,OK,User 1-84,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,620,0,308
+1672383294060,620,HomePage-0,301,Moved Permanently,User 1-84,text,true,,947,122,100,100,http://www.banglapuzzle.com/,620,0,308
+1672383294680,8893,HomePage-1,200,OK,User 1-84,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,4619,0,636
+1672383300901,2693,LoginPage,200,OK,User 1-17,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,794,0,402
+1672383300901,794,LoginPage-0,301,Moved Permanently,User 1-17,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,794,0,402
+1672383301695,343,LoginPage-1,301,Moved Permanently,User 1-17,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,343,0,0
+1672383302038,1556,LoginPage-2,200,OK,User 1-17,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1191,0,0
+1672383293459,10156,HomePage,200,OK,User 1-25,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,723,0,377
+1672383293459,723,HomePage-0,301,Moved Permanently,User 1-25,text,true,,947,122,100,100,http://www.banglapuzzle.com/,723,0,377
+1672383294183,9432,HomePage-1,200,OK,User 1-25,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,5481,0,738
+1672383294129,9599,HomePage,200,OK,User 1-91,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,793,0,367
+1672383294129,793,HomePage-0,301,Moved Permanently,User 1-91,text,true,,947,122,100,100,http://www.banglapuzzle.com/,793,0,367
+1672383294923,8805,HomePage-1,200,OK,User 1-91,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,5640,0,677
+1672383293660,10089,HomePage,200,OK,User 1-43,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,699,0,345
+1672383293660,699,HomePage-0,301,Moved Permanently,User 1-43,text,true,,947,122,100,100,http://www.banglapuzzle.com/,699,0,345
+1672383294359,9390,HomePage-1,200,OK,User 1-43,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,5701,0,621
+1672383293352,10596,HomePage,200,OK,User 1-14,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,655,0,325
+1672383293352,655,HomePage-0,301,Moved Permanently,User 1-14,text,true,,947,122,100,100,http://www.banglapuzzle.com/,655,0,325
+1672383294007,9941,HomePage-1,200,OK,User 1-14,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,4458,0,814
+1672383293935,10039,HomePage,200,OK,User 1-71,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,589,0,308
+1672383293935,589,HomePage-0,301,Moved Permanently,User 1-71,text,true,,947,122,100,100,http://www.banglapuzzle.com/,589,0,308
+1672383294525,9449,HomePage-1,200,OK,User 1-71,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,4456,0,793
+1672383294140,10113,HomePage,200,OK,User 1-92,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,720,0,323
+1672383294140,721,HomePage-0,301,Moved Permanently,User 1-92,text,true,,947,122,100,100,http://www.banglapuzzle.com/,720,0,323
+1672383294868,9385,HomePage-1,200,OK,User 1-92,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,5769,0,615
+1672383294198,10075,HomePage,200,OK,User 1-98,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,672,0,299
+1672383294198,672,HomePage-0,301,Moved Permanently,User 1-98,text,true,,947,122,100,100,http://www.banglapuzzle.com/,672,0,299
+1672383294871,9402,HomePage-1,200,OK,User 1-98,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,3227,0,611
+1672383293537,10973,HomePage,200,OK,User 1-33,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,677,0,327
+1672383293537,677,HomePage-0,301,Moved Permanently,User 1-33,text,true,,947,122,100,100,http://www.banglapuzzle.com/,677,0,327
+1672383294215,10295,HomePage-1,200,OK,User 1-33,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,7813,0,678
+1672383293825,10691,HomePage,200,OK,User 1-60,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,638,0,313
+1672383293825,638,HomePage-0,301,Moved Permanently,User 1-60,text,true,,947,122,100,100,http://www.banglapuzzle.com/,638,0,313
+1672383294464,10052,HomePage-1,200,OK,User 1-60,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,6356,0,600
+1672383294051,10661,HomePage,200,OK,User 1-83,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,604,0,311
+1672383294051,604,HomePage-0,301,Moved Permanently,User 1-83,text,true,,947,122,100,100,http://www.banglapuzzle.com/,604,0,311
+1672383294656,10056,HomePage-1,200,OK,User 1-83,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,5253,0,774
+1672383302099,2773,LoginPage,200,OK,User 1-12,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,717,0,363
+1672383302099,717,LoginPage-0,301,Moved Permanently,User 1-12,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,717,0,363
+1672383302817,414,LoginPage-1,301,Moved Permanently,User 1-12,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,414,0,0
+1672383303231,1641,LoginPage-2,200,OK,User 1-12,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1241,0,0
+1672383293324,11565,HomePage,200,OK,User 1-11,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,683,0,353
+1672383293324,683,HomePage-0,301,Moved Permanently,User 1-11,text,true,,947,122,100,100,http://www.banglapuzzle.com/,683,0,353
+1672383294007,10882,HomePage-1,200,OK,User 1-11,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,5527,0,922
+1672383294071,11103,HomePage,200,OK,User 1-85,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,593,0,293
+1672383294071,593,HomePage-0,301,Moved Permanently,User 1-85,text,true,,947,122,100,100,http://www.banglapuzzle.com/,593,0,293
+1672383294665,10509,HomePage-1,200,OK,User 1-85,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,6840,0,766
+1672383293500,11676,HomePage,200,OK,User 1-29,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,625,0,336
+1672383293500,625,HomePage-0,301,Moved Permanently,User 1-29,text,true,,947,122,100,100,http://www.banglapuzzle.com/,625,0,336
+1672383294125,11051,HomePage-1,200,OK,User 1-29,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2575,0,646
+1672383293323,11949,HomePage,200,OK,User 1-3,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,596,0,307
+1672383294022,11250,HomePage,200,OK,User 1-80,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,692,0,343
+1672383293323,600,HomePage-0,301,Moved Permanently,User 1-3,text,true,,947,122,100,100,http://www.banglapuzzle.com/,596,0,307
+1672383294022,692,HomePage-0,301,Moved Permanently,User 1-80,text,true,,947,122,100,100,http://www.banglapuzzle.com/,692,0,343
+1672383293926,11346,HomePage-1,200,OK,User 1-3,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,5889,0,1005
+1672383294714,10558,HomePage-1,200,OK,User 1-80,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,8549,0,736
+1672383294032,11242,HomePage,200,OK,User 1-81,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,626,0,329
+1672383294032,626,HomePage-0,301,Moved Permanently,User 1-81,text,true,,947,122,100,100,http://www.banglapuzzle.com/,626,0,329
+1672383294667,10607,HomePage-1,200,OK,User 1-81,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,7800,0,653
+1672383293323,12077,HomePage,200,OK,User 1-7,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,686,0,353
+1672383293323,686,HomePage-0,301,Moved Permanently,User 1-7,text,true,,947,122,100,100,http://www.banglapuzzle.com/,686,0,353
+1672383294011,11389,HomePage-1,200,OK,User 1-7,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2869,0,890
+1672383293687,11723,HomePage,200,OK,User 1-46,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,673,0,321
+1672383293687,673,HomePage-0,301,Moved Permanently,User 1-46,text,true,,947,122,100,100,http://www.banglapuzzle.com/,673,0,321
+1672383294365,11045,HomePage-1,200,OK,User 1-46,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,8382,0,672
+1672383294044,11433,HomePage,200,OK,User 1-82,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,612,0,318
+1672383294044,612,HomePage-0,301,Moved Permanently,User 1-82,text,true,,947,122,100,100,http://www.banglapuzzle.com/,612,0,318
+1672383294660,10817,HomePage-1,200,OK,User 1-82,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,4578,0,762
+1672383293806,11726,HomePage,200,OK,User 1-58,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,568,0,284
+1672383293806,568,HomePage-0,301,Moved Permanently,User 1-58,text,true,,947,122,100,100,http://www.banglapuzzle.com/,568,0,284
+1672383294375,11157,HomePage-1,200,OK,User 1-58,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,7991,0,669
+1672383293573,11980,HomePage,200,OK,User 1-35,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,565,0,285
+1672383293573,565,HomePage-0,301,Moved Permanently,User 1-35,text,true,,947,122,100,100,http://www.banglapuzzle.com/,565,0,285
+1672383294138,11415,HomePage-1,200,OK,User 1-35,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2922,0,634
+1672383302643,2931,LoginPage,200,OK,User 1-32,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,778,0,431
+1672383302643,778,LoginPage-0,301,Moved Permanently,User 1-32,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,778,0,431
+1672383303421,341,LoginPage-1,301,Moved Permanently,User 1-32,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,341,0,0
+1672383303762,1812,LoginPage-2,200,OK,User 1-32,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1412,0,0
+1672383302511,3213,LoginPage,200,OK,User 1-6,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,718,0,336
+1672383302511,718,LoginPage-0,301,Moved Permanently,User 1-6,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,718,0,336
+1672383303229,335,LoginPage-1,301,Moved Permanently,User 1-6,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,335,0,0
+1672383303563,2160,LoginPage-2,200,OK,User 1-6,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1837,0,0
+1672383293595,12157,HomePage,200,OK,User 1-37,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,648,0,316
+1672383293595,648,HomePage-0,301,Moved Permanently,User 1-37,text,true,,947,122,100,100,http://www.banglapuzzle.com/,648,0,316
+1672383294244,11508,HomePage-1,200,OK,User 1-37,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,5824,0,718
+1672383293865,12083,HomePage,200,OK,User 1-64,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,658,0,337
+1672383293865,658,HomePage-0,301,Moved Permanently,User 1-64,text,true,,947,122,100,100,http://www.banglapuzzle.com/,658,0,337
+1672383294523,11425,HomePage-1,200,OK,User 1-64,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,6273,0,924
+1672383302060,3917,LoginPage,200,OK,User 1-18,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,818,0,404
+1672383302060,819,LoginPage-0,301,Moved Permanently,User 1-18,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,818,0,404
+1672383302879,353,LoginPage-1,301,Moved Permanently,User 1-18,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,353,0,0
+1672383303232,2745,LoginPage-2,200,OK,User 1-18,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,2290,0,0
+1672383303227,2807,LoginPage,200,OK,User 1-10,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,701,0,338
+1672383303227,701,LoginPage-0,301,Moved Permanently,User 1-10,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,701,0,338
+1672383303927,347,LoginPage-1,301,Moved Permanently,User 1-10,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,347,0,0
+1672383304275,1759,LoginPage-2,200,OK,User 1-10,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1367,0,0
+1672383302682,3409,LoginPage,200,OK,User 1-73,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,1955,0,398
+1672383302682,1955,LoginPage-0,301,Moved Permanently,User 1-73,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,1955,0,398
+1672383304637,356,LoginPage-1,301,Moved Permanently,User 1-73,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,356,0,0
+1672383304993,1098,LoginPage-2,200,OK,User 1-73,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1074,0,0
+1672383294013,12125,HomePage,200,OK,User 1-79,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,649,0,347
+1672383294013,649,HomePage-0,301,Moved Permanently,User 1-79,text,true,,947,122,100,100,http://www.banglapuzzle.com/,649,0,347
+1672383294662,11476,HomePage-1,200,OK,User 1-79,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,5558,0,763
+1672383303728,2516,LoginPage,200,OK,User 1-91,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,694,0,367
+1672383303728,694,LoginPage-0,301,Moved Permanently,User 1-91,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,694,0,367
+1672383304422,332,LoginPage-1,301,Moved Permanently,User 1-91,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,332,0,0
+1672383304755,1489,LoginPage-2,200,OK,User 1-91,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1135,0,0
+1672383301862,4518,LoginPage,200,OK,User 1-16,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,783,0,393
+1672383301862,783,LoginPage-0,301,Moved Permanently,User 1-16,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,783,0,393
+1672383302645,1057,LoginPage-1,301,Moved Permanently,User 1-16,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,1057,0,0
+1672383303701,2678,LoginPage-2,200,OK,User 1-16,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1425,0,0
+1672383300937,5466,LoginPage,200,OK,User 1-22,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,774,0,377
+1672383300937,774,LoginPage-0,301,Moved Permanently,User 1-22,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,774,0,377
+1672383301711,327,LoginPage-1,301,Moved Permanently,User 1-22,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,327,0,0
+1672383302038,4365,LoginPage-2,200,OK,User 1-22,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,3975,0,0
+1672383293470,12990,HomePage,200,OK,User 1-26,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,584,0,283
+1672383293470,584,HomePage-0,301,Moved Permanently,User 1-26,text,true,,947,122,100,100,http://www.banglapuzzle.com/,584,0,283
+1672383294057,12403,HomePage-1,200,OK,User 1-26,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,7046,0,875
+1672383301504,5075,LoginPage,200,OK,User 1-41,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,742,0,358
+1672383301504,742,LoginPage-0,301,Moved Permanently,User 1-41,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,742,0,358
+1672383302246,350,LoginPage-1,301,Moved Permanently,User 1-41,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,349,0,0
+1672383302596,3983,LoginPage-2,200,OK,User 1-41,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,2646,0,0
+1672383293915,12849,HomePage,200,OK,User 1-69,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,737,0,345
+1672383293915,737,HomePage-0,301,Moved Permanently,User 1-69,text,true,,947,122,100,100,http://www.banglapuzzle.com/,737,0,345
+1672383294653,12111,HomePage-1,200,OK,User 1-69,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,4859,0,780
+1672383293885,12891,HomePage,200,OK,User 1-66,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,679,0,329
+1672383293885,679,HomePage-0,301,Moved Permanently,User 1-66,text,true,,947,122,100,100,http://www.banglapuzzle.com/,679,0,329
+1672383294565,12211,HomePage-1,200,OK,User 1-66,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,4814,0,747
+1672383302462,4364,HomePage,200,OK,User 1-36,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,386,0,0
+1672383302462,386,HomePage-0,301,Moved Permanently,User 1-36,text,true,,947,122,100,100,http://www.banglapuzzle.com/,386,0,0
+1672383302848,3978,HomePage-1,200,OK,User 1-36,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,1251,0,0
+1672383303974,3081,LoginPage,200,OK,User 1-71,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,761,0,391
+1672383303974,762,LoginPage-0,301,Moved Permanently,User 1-71,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,761,0,391
+1672383304736,383,LoginPage-1,301,Moved Permanently,User 1-71,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,383,0,0
+1672383305119,1936,LoginPage-2,200,OK,User 1-71,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1260,0,0
+1672383303594,3583,HomePage,200,OK,User 1-17,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,387,0,0
+1672383303594,387,HomePage-0,301,Moved Permanently,User 1-17,text,true,,947,122,100,100,http://www.banglapuzzle.com/,387,0,0
+1672383303981,3196,HomePage-1,200,OK,User 1-17,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,760,0,0
+1672383301933,5286,LoginPage,200,OK,User 1-30,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,1827,0,1447
+1672383301933,1827,LoginPage-0,301,Moved Permanently,User 1-30,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,1827,0,1447
+1672383303759,336,LoginPage-1,301,Moved Permanently,User 1-30,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,336,0,0
+1672383304095,3124,LoginPage-2,200,OK,User 1-30,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,2783,0,0
+1672383293401,13839,HomePage,200,OK,User 1-19,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,677,0,348
+1672383293401,678,HomePage-0,301,Moved Permanently,User 1-19,text,true,,947,122,100,100,http://www.banglapuzzle.com/,677,0,348
+1672383294079,13161,HomePage-1,200,OK,User 1-19,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,9012,0,854
+1672383293766,13586,HomePage,200,OK,User 1-54,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,670,0,324
+1672383293766,670,HomePage-0,301,Moved Permanently,User 1-54,text,true,,947,122,100,100,http://www.banglapuzzle.com/,670,0,324
+1672383294437,12915,HomePage-1,200,OK,User 1-54,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,7591,0,706
+1672383293617,13972,HomePage,200,OK,User 1-39,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,566,0,282
+1672383293617,566,HomePage-0,301,Moved Permanently,User 1-39,text,true,,947,122,100,100,http://www.banglapuzzle.com/,566,0,282
+1672383294184,13405,HomePage-1,200,OK,User 1-39,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,2771,0,732
+1672383293905,13686,HomePage,200,OK,User 1-68,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,592,0,281
+1672383293905,592,HomePage-0,301,Moved Permanently,User 1-68,text,true,,947,122,100,100,http://www.banglapuzzle.com/,592,0,281
+1672383293697,13903,HomePage,200,OK,User 1-47,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,666,0,324
+1672383293697,666,HomePage-0,301,Moved Permanently,User 1-47,text,true,,947,122,100,100,http://www.banglapuzzle.com/,666,0,324
+1672383294364,13236,HomePage-1,200,OK,User 1-47,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,8165,0,616
+1672383294497,13094,HomePage-1,200,OK,User 1-68,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,5168,0,603
+1672383303573,4062,LoginPage,200,OK,User 1-84,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,724,0,363
+1672383303573,724,LoginPage-0,301,Moved Permanently,User 1-84,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,724,0,363
+1672383304297,298,LoginPage-1,301,Moved Permanently,User 1-84,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,298,0,0
+1672383304595,3040,LoginPage-2,200,OK,User 1-84,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,2328,0,0
+1672383293678,14014,HomePage,200,OK,User 1-45,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,679,0,327
+1672383293678,679,HomePage-0,301,Moved Permanently,User 1-45,text,true,,947,122,100,100,http://www.banglapuzzle.com/,679,0,327
+1672383294358,13334,HomePage-1,200,OK,User 1-45,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,7468,0,607
+1672383302784,5009,LoginPage,200,OK,User 1-88,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,680,0,329
+1672383302784,680,LoginPage-0,301,Moved Permanently,User 1-88,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,680,0,329
+1672383303464,396,LoginPage-1,301,Moved Permanently,User 1-88,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,396,0,0
+1672383303860,3933,LoginPage-2,200,OK,User 1-88,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,2040,0,0
+1672383302748,5058,LoginPage,200,OK,User 1-2,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,715,0,338
+1672383302748,716,LoginPage-0,301,Moved Permanently,User 1-2,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,715,0,338
+1672383303463,364,LoginPage-1,301,Moved Permanently,User 1-2,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,364,0,0
+1672383303827,3979,LoginPage-2,200,OK,User 1-2,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,3213,0,0
+1672383293837,14043,HomePage,200,OK,User 1-61,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,599,0,282
+1672383293846,14034,HomePage,200,OK,User 1-62,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,657,0,337
+1672383293837,599,HomePage-0,301,Moved Permanently,User 1-61,text,true,,947,122,100,100,http://www.banglapuzzle.com/,599,0,282
+1672383293846,657,HomePage-0,301,Moved Permanently,User 1-62,text,true,,947,122,100,100,http://www.banglapuzzle.com/,657,0,337
+1672383294437,13443,HomePage-1,200,OK,User 1-61,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,7771,0,601
+1672383294503,13377,HomePage-1,200,OK,User 1-62,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,6662,0,665
+1672383303749,4274,LoginPage,200,OK,User 1-43,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,782,0,395
+1672383303749,782,LoginPage-0,301,Moved Permanently,User 1-43,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,782,0,395
+1672383304531,357,LoginPage-1,301,Moved Permanently,User 1-43,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,357,0,0
+1672383304889,3134,LoginPage-2,200,OK,User 1-43,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,2016,0,0
+1672383305409,2692,LoginPage,200,OK,User 1-46,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,794,0,393
+1672383305409,794,LoginPage-0,301,Moved Permanently,User 1-46,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,794,0,393
+1672383306203,366,LoginPage-1,301,Moved Permanently,User 1-46,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,366,0,0
+1672383306569,1532,LoginPage-2,200,OK,User 1-46,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1524,0,0
+1672383293717,14635,HomePage,200,OK,User 1-49,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,641,0,291
+1672383293717,641,HomePage-0,301,Moved Permanently,User 1-49,text,true,,947,122,100,100,http://www.banglapuzzle.com/,641,0,291
+1672383294358,13994,HomePage-1,200,OK,User 1-49,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,4364,0,672
+1672383301449,6980,HomePage,200,OK,User 1-28,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,413,0,0
+1672383301449,413,HomePage-0,301,Moved Permanently,User 1-28,text,true,,947,122,100,100,http://www.banglapuzzle.com/,413,0,0
+1672383301862,6567,HomePage-1,200,OK,User 1-28,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,1607,0,0
+1672383293649,14860,HomePage,200,OK,User 1-42,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,558,0,278
+1672383293649,559,HomePage-0,301,Moved Permanently,User 1-42,text,true,,947,122,100,100,http://www.banglapuzzle.com/,558,0,278
+1672383294208,14301,HomePage-1,200,OK,User 1-42,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,4314,0,759
+1672383305272,3301,LoginPage,200,OK,User 1-80,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,849,0,416
+1672383305272,849,LoginPage-0,301,Moved Permanently,User 1-80,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,849,0,416
+1672383306121,366,LoginPage-1,301,Moved Permanently,User 1-80,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,366,0,0
+1672383306487,2086,LoginPage-2,200,OK,User 1-80,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1677,0,0
+1672383303948,4665,LoginPage,200,OK,User 1-14,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,763,0,389
+1672383303948,763,LoginPage-0,301,Moved Permanently,User 1-14,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,763,0,389
+1672383304711,361,LoginPage-1,301,Moved Permanently,User 1-14,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,361,0,0
+1672383305072,3541,LoginPage-2,200,OK,User 1-14,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,2809,0,0
+1672383294120,14511,HomePage,200,OK,User 1-90,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,600,0,316
+1672383294120,600,HomePage-0,301,Moved Permanently,User 1-90,text,true,,947,122,100,100,http://www.banglapuzzle.com/,600,0,316
+1672383294721,13910,HomePage-1,200,OK,User 1-90,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,7166,0,717
+1672383293816,14899,HomePage,200,OK,User 1-59,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,620,0,279
+1672383293816,620,HomePage-0,301,Moved Permanently,User 1-59,text,true,,947,122,100,100,http://www.banglapuzzle.com/,620,0,279
+1672383294436,14279,HomePage-1,200,OK,User 1-59,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,11230,0,591
+1672383293419,15375,HomePage,200,OK,User 1-21,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,589,0,296
+1672383293419,589,HomePage-0,301,Moved Permanently,User 1-21,text,true,,947,122,100,100,http://www.banglapuzzle.com/,589,0,296
+1672383294010,14784,HomePage-1,200,OK,User 1-21,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,3092,0,914
+1672383301561,7264,LoginPage,200,OK,User 1-23,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,694,0,315
+1672383301561,694,LoginPage-0,301,Moved Permanently,User 1-23,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,694,0,315
+1672383302255,3370,LoginPage-1,301,Moved Permanently,User 1-23,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,3370,0,0
+1672383305624,3200,LoginPage-2,200,OK,User 1-23,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,2457,0,0
+1672383294218,14628,HomePage,200,OK,User 1-100,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,646,0,284
+1672383294218,646,HomePage-0,301,Moved Permanently,User 1-100,text,true,,947,122,100,100,http://www.banglapuzzle.com/,646,0,284
+1672383294864,13982,HomePage-1,200,OK,User 1-100,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,5606,0,698
+1672383306091,2792,HomePage,200,OK,User 1-73,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,378,0,0
+1672383306091,378,HomePage-0,301,Moved Permanently,User 1-73,text,true,,947,122,100,100,http://www.banglapuzzle.com/,378,0,0
+1672383306469,2414,HomePage-1,200,OK,User 1-73,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,733,0,0
+1672383304711,4188,LoginPage,200,OK,User 1-83,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,795,0,386
+1672383304711,795,LoginPage-0,301,Moved Permanently,User 1-83,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,795,0,386
+1672383305506,389,LoginPage-1,301,Moved Permanently,User 1-83,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,389,0,0
+1672383305895,3004,LoginPage-2,200,OK,User 1-83,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,2269,0,0
+1672383293324,15647,HomePage,200,OK,User 1-1,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,681,0,352
+1672383293324,681,HomePage-0,301,Moved Permanently,User 1-1,text,true,,947,122,100,100,http://www.banglapuzzle.com/,681,0,352
+1672383294008,14963,HomePage-1,200,OK,User 1-1,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,4735,0,888
+1672383304273,4730,LoginPage,200,OK,User 1-98,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,677,0,315
+1672383304273,677,LoginPage-0,301,Moved Permanently,User 1-98,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,677,0,315
+1672383304950,333,LoginPage-1,301,Moved Permanently,User 1-98,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,333,0,0
+1672383305283,3720,LoginPage-2,200,OK,User 1-98,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,3023,0,0
+1672383302643,6382,LoginPage,200,OK,User 1-55,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,2142,0,435
+1672383302643,2142,LoginPage-0,301,Moved Permanently,User 1-55,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,2142,0,435
+1672383304784,358,LoginPage-1,301,Moved Permanently,User 1-55,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,358,0,0
+1672383305142,3883,LoginPage-2,200,OK,User 1-55,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,814,0,0
+1672383301258,7781,LoginPage,200,OK,User 1-24,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,735,0,368
+1672383301258,735,LoginPage-0,301,Moved Permanently,User 1-24,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,735,0,368
+1672383301993,3350,LoginPage-1,301,Moved Permanently,User 1-24,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,3350,0,0
+1672383305342,3696,LoginPage-2,200,OK,User 1-24,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,3272,0,0
+1672383305272,4079,LoginPage,200,OK,User 1-3,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,1683,0,1338
+1672383305272,1683,LoginPage-0,301,Moved Permanently,User 1-3,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,1683,0,1338
+1672383306955,392,LoginPage-1,301,Moved Permanently,User 1-3,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,392,0,0
+1672383307347,2004,LoginPage-2,200,OK,User 1-3,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1581,0,0
+1672383306137,3281,LoginPage,200,OK,User 1-79,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,640,0,343
+1672383306137,640,LoginPage-0,301,Moved Permanently,User 1-79,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,640,0,343
+1672383306777,341,LoginPage-1,301,Moved Permanently,User 1-79,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,340,0,0
+1672383307118,2300,LoginPage-2,200,OK,User 1-79,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1865,0,0
+1672383304889,4603,LoginPage,200,OK,User 1-11,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,734,0,362
+1672383304889,734,LoginPage-0,301,Moved Permanently,User 1-11,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,734,0,362
+1672383305624,390,LoginPage-1,301,Moved Permanently,User 1-11,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,390,0,0
+1672383306014,3478,LoginPage-2,200,OK,User 1-11,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,2638,0,0
+1672383305173,4322,LoginPage,200,OK,User 1-85,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,721,0,358
+1672383305477,4018,LoginPage,200,OK,User 1-82,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,2112,0,413
+1672383305173,721,LoginPage-0,301,Moved Permanently,User 1-85,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,721,0,358
+1672383305477,2112,LoginPage-0,301,Moved Permanently,User 1-82,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,2112,0,413
+1672383305894,1061,LoginPage-1,301,Moved Permanently,User 1-85,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,1061,0,0
+1672383307589,309,LoginPage-1,301,Moved Permanently,User 1-82,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,309,0,0
+1672383306955,2540,LoginPage-2,200,OK,User 1-85,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1906,0,0
+1672383307898,1597,LoginPage-2,200,OK,User 1-82,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1150,0,0
+1672383303615,5883,LoginPage,200,OK,User 1-25,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,754,0,378
+1672383303615,754,LoginPage-0,301,Moved Permanently,User 1-25,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,754,0,378
+1672383304369,378,LoginPage-1,301,Moved Permanently,User 1-25,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,378,0,0
+1672383304747,4751,LoginPage-2,200,OK,User 1-25,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,2364,0,0
+1672383304511,5013,LoginPage,200,OK,User 1-33,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,662,0,330
+1672383304511,662,LoginPage-0,301,Moved Permanently,User 1-33,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,662,0,330
+1672383305173,359,LoginPage-1,301,Moved Permanently,User 1-33,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,358,0,0
+1672383305532,3992,LoginPage-2,200,OK,User 1-33,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,3640,0,0
+1672383293707,15987,HomePage,200,OK,User 1-48,text,true,,65503,244,100,100,https://www.banglapuzzle.com/,653,0,303
+1672383293707,653,HomePage-0,301,Moved Permanently,User 1-48,text,true,,947,122,100,100,http://www.banglapuzzle.com/,653,0,303
+1672383294361,15333,HomePage-1,200,OK,User 1-48,text,true,,64556,122,100,100,https://www.banglapuzzle.com/,8717,0,676
+1672383303078,6753,LoginPage,200,OK,User 1-76,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,779,0,390
+1672383303078,779,LoginPage-0,301,Moved Permanently,User 1-76,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,779,0,390
+1672383303856,2598,LoginPage-1,301,Moved Permanently,User 1-76,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,2598,0,0
+1672383306454,3377,LoginPage-2,200,OK,User 1-76,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1627,0,0
+1672383307177,2691,LoginPage,200,OK,User 1-17,text,true,,27738,383,100,100,https://www.banglapuzzle.com/login,422,0,0
+1672383307177,423,LoginPage-0,301,Moved Permanently,User 1-17,text,true,,953,128,100,100,http://www.banglapuzzle.com/login/,422,0,0
+1672383307600,317,LoginPage-1,301,Moved Permanently,User 1-17,text,true,,970,128,100,100,https://www.banglapuzzle.com/login/,317,0,0
+1672383307917,1951,LoginPage-2,200,OK,User 1-17,text,true,,25815,127,100,100,https://www.banglapuzzle.com/login,1586,0,0
+1672383294110,15864,HomePage,200,OK,User 1-89,text,true,,65503,244,99,99,https://www.banglapuzzle.com/,652,0,326
+1672383294110,652,HomePage-0,301,Moved Permanently,User 1-89,text,true,,947,122,99,99,http://www.banglapuzzle.com/,652,0,326
+1672383294762,15212,HomePage-1,200,OK,User 1-89,text,true,,64556,122,99,99,https://www.banglapuzzle.com/,11195,0,677
+1672383305274,4784,LoginPage,200,OK,User 1-81,text,true,,27738,383,99,99,https://www.banglapuzzle.com/login,1681,0,1341
+1672383305274,1681,LoginPage-0,301,Moved Permanently,User 1-81,text,true,,953,128,99,99,http://www.banglapuzzle.com/login/,1681,0,1341
+1672383306955,392,LoginPage-1,301,Moved Permanently,User 1-81,text,true,,970,128,99,99,https://www.banglapuzzle.com/login/,392,0,0
+1672383307347,2711,LoginPage-2,200,OK,User 1-81,text,true,,25815,127,99,99,https://www.banglapuzzle.com/login,1434,0,0
+1672383294082,16108,HomePage,200,OK,User 1-86,text,true,,65503,244,99,99,https://www.banglapuzzle.com/,589,0,295
+1672383294082,590,HomePage-0,301,Moved Permanently,User 1-86,text,true,,947,122,99,99,http://www.banglapuzzle.com/,589,0,295
+1672383294674,15516,HomePage-1,200,OK,User 1-86,text,true,,64556,122,99,99,https://www.banglapuzzle.com/,12250,0,753
+1672383294003,16251,HomePage,200,OK,User 1-78,text,true,,65503,244,99,99,https://www.banglapuzzle.com/,679,0,358
+1672383294003,679,HomePage-0,301,Moved Permanently,User 1-78,text,true,,947,122,99,99,http://www.banglapuzzle.com/,679,0,358
+1672383294683,15571,HomePage-1,200,OK,User 1-78,text,true,,64556,122,99,99,https://www.banglapuzzle.com/,9117,0,753
+1672383303393,6876,HomePage,200,OK,User 1-31,text,true,,65503,244,99,99,https://www.banglapuzzle.com/,374,0,0
+1672383303393,374,HomePage-0,301,Moved Permanently,User 1-31,text,true,,947,122,99,99,http://www.banglapuzzle.com/,374,0,0
+1672383303768,6501,HomePage-1,200,OK,User 1-31,text,true,,64556,122,99,99,https://www.banglapuzzle.com/,2195,0,0
+1672383293625,16654,HomePage,200,OK,User 1-40,text,true,,65503,244,99,99,https://www.banglapuzzle.com/,639,0,321
+1672383293625,639,HomePage-0,301,Moved Permanently,User 1-40,text,true,,947,122,99,99,http://www.banglapuzzle.com/,639,0,321
+1672383294265,16014,HomePage-1,200,OK,User 1-40,text,true,,64556,122,99,99,https://www.banglapuzzle.com/,7559,0,696
+1672383304872,5593,HomePage,200,OK,User 1-12,text,true,,65503,244,99,99,https://www.banglapuzzle.com/,331,0,0
+1672383304872,331,HomePage-0,301,Moved Permanently,User 1-12,text,true,,947,122,99,99,http://www.banglapuzzle.com/,331,0,0
+1672383305203,5262,HomePage-1,200,OK,User 1-12,text,true,,64556,122,99,99,https://www.banglapuzzle.com/,1627,0,0
+1672383305175,5385,LoginPage,200,OK,User 1-29,text,true,,27738,383,99,99,https://www.banglapuzzle.com/login,718,0,338
+1672383305175,718,LoginPage-0,301,Moved Permanently,User 1-29,text,true,,953,128,99,99,http://www.banglapuzzle.com/login/,718,0,338
+1672383305894,404,LoginPage-1,301,Moved Permanently,User 1-29,text,true,,970,128,99,99,https://www.banglapuzzle.com/login/,404,0,0
+1672383306298,4262,LoginPage-2,200,OK,User 1-29,text,true,,25815,127,99,99,https://www.banglapuzzle.com/login,3533,0,0
+1672383307351,3322,LoginPage,200,OK,User 1-54,text,true,,27738,383,99,99,https://www.banglapuzzle.com/login,703,0,338
+1672383307351,703,LoginPage-0,301,Moved Permanently,User 1-54,text,true,,953,128,99,99,http://www.banglapuzzle.com/login/,703,0,338
+1672383308054,439,LoginPage-1,301,Moved Permanently,User 1-54,text,true,,970,128,99,99,https://www.banglapuzzle.com/login/,439,0,0
+1672383308495,2179,LoginPage-2,200,OK,User 1-54,text,true,,25815,127,99,99,https://www.banglapuzzle.com/login,1603,0,0
+1672383306245,4434,HomePage,200,OK,User 1-91,text,true,,65503,244,99,99,https://www.banglapuzzle.com/,318,0,0
+1672383306245,318,HomePage-0,301,Moved Permanently,User 1-91,text,true,,947,122,99,99,http://www.banglapuzzle.com/,318,0,0
+1672383306564,4115,HomePage-1,200,OK,User 1-91,text,true,,64556,122,99,99,https://www.banglapuzzle.com/,1344,0,0
+1672383307589,3211,LoginPage,200,OK,User 1-39,text,true,,27738,383,99,99,https://www.banglapuzzle.com/login,626,0,284
+1672383307589,626,LoginPage-0,301,Moved Permanently,User 1-39,text,true,,953,128,99,99,http://www.banglapuzzle.com/login/,626,0,284
+1672383308216,463,LoginPage-1,301,Moved Permanently,User 1-39,text,true,,970,128,99,99,https://www.banglapuzzle.com/login/,463,0,0
+1672383308680,2121,LoginPage-2,200,OK,User 1-39,text,true,,25815,127,99,99,https://www.banglapuzzle.com/login,1295,0,0
+1672383306825,4001,LoginPage,200,OK,User 1-36,text,true,,27738,383,99,99,https://www.banglapuzzle.com/login,391,0,0
+1672383306825,391,LoginPage-0,301,Moved Permanently,User 1-36,text,true,,953,128,99,99,http://www.banglapuzzle.com/login/,391,0,0
+1672383307216,384,LoginPage-1,301,Moved Permanently,User 1-36,text,true,,970,128,99,99,https://www.banglapuzzle.com/login/,384,0,0
+1672383307600,3226,LoginPage-2,200,OK,User 1-36,text,true,,25815,127,99,99,https://www.banglapuzzle.com/login,2392,0,0
+1672383306035,4891,HomePage,200,OK,User 1-10,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,367,0,0
+1672383306035,367,HomePage-0,301,Moved Permanently,User 1-10,text,true,,947,122,98,98,http://www.banglapuzzle.com/,367,0,0
+1672383306402,4524,HomePage-1,200,OK,User 1-10,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,706,0,0
+1672383301827,9141,LoginPage,200,OK,User 1-63,text,true,,27738,383,98,98,https://www.banglapuzzle.com/login,730,0,364
+1672383301827,730,LoginPage-0,301,Moved Permanently,User 1-63,text,true,,953,128,98,98,http://www.banglapuzzle.com/login/,730,0,364
+1672383302557,1975,LoginPage-1,301,Moved Permanently,User 1-63,text,true,,970,128,98,98,https://www.banglapuzzle.com/login/,1975,0,0
+1672383304531,6436,LoginPage-2,200,OK,User 1-63,text,true,,25815,127,98,98,https://www.banglapuzzle.com/login,5734,0,0
+1672383303227,7741,HomePage,200,OK,User 1-56,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,332,0,0
+1672383303227,332,HomePage-0,301,Moved Permanently,User 1-56,text,true,,947,122,98,98,http://www.banglapuzzle.com/,332,0,0
+1672383303559,7409,HomePage-1,200,OK,User 1-56,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,2495,0,0
+1672383305553,5575,LoginPage,200,OK,User 1-35,text,true,,27738,383,98,98,https://www.banglapuzzle.com/login,749,0,359
+1672383305553,749,LoginPage-0,301,Moved Permanently,User 1-35,text,true,,953,128,98,98,http://www.banglapuzzle.com/login/,749,0,359
+1672383306302,308,LoginPage-1,301,Moved Permanently,User 1-35,text,true,,970,128,98,98,https://www.banglapuzzle.com/login/,308,0,0
+1672383306611,4517,LoginPage-2,200,OK,User 1-35,text,true,,25815,127,98,98,https://www.banglapuzzle.com/login,3177,0,0
+1672383306763,4405,LoginPage,200,OK,User 1-69,text,true,,27738,383,98,98,https://www.banglapuzzle.com/login,826,0,348
+1672383306763,826,LoginPage-0,301,Moved Permanently,User 1-69,text,true,,953,128,98,98,http://www.banglapuzzle.com/login/,826,0,348
+1672383307589,328,LoginPage-1,301,Moved Permanently,User 1-69,text,true,,970,128,98,98,https://www.banglapuzzle.com/login/,328,0,0
+1672383307917,3251,LoginPage-2,200,OK,User 1-69,text,true,,25815,127,98,98,https://www.banglapuzzle.com/login,2412,0,0
+1672383307599,3644,LoginPage,200,OK,User 1-47,text,true,,27738,383,98,98,https://www.banglapuzzle.com/login,652,0,299
+1672383307599,652,LoginPage-0,301,Moved Permanently,User 1-47,text,true,,953,128,98,98,http://www.banglapuzzle.com/login/,652,0,299
+1672383308251,404,LoginPage-1,301,Moved Permanently,User 1-47,text,true,,970,128,98,98,https://www.banglapuzzle.com/login/,404,0,0
+1672383308657,2587,LoginPage-2,200,OK,User 1-47,text,true,,25815,127,98,98,https://www.banglapuzzle.com/login,1876,0,0
+1672383306776,4514,LoginPage,200,OK,User 1-66,text,true,,27738,383,98,98,https://www.banglapuzzle.com/login,812,0,335
+1672383306776,812,LoginPage-0,301,Moved Permanently,User 1-66,text,true,,953,128,98,98,http://www.banglapuzzle.com/login/,812,0,335
+1672383307589,290,LoginPage-1,301,Moved Permanently,User 1-66,text,true,,970,128,98,98,https://www.banglapuzzle.com/login/,290,0,0
+1672383307879,3411,LoginPage-2,200,OK,User 1-66,text,true,,25815,127,98,98,https://www.banglapuzzle.com/login,1675,0,0
+1672383306460,4908,LoginPage,200,OK,User 1-26,text,true,,27738,383,98,98,https://www.banglapuzzle.com/login,767,0,359
+1672383306460,767,LoginPage-0,301,Moved Permanently,User 1-26,text,true,,953,128,98,98,http://www.banglapuzzle.com/login/,767,0,359
+1672383307227,378,LoginPage-1,301,Moved Permanently,User 1-26,text,true,,970,128,98,98,https://www.banglapuzzle.com/login/,378,0,0
+1672383307605,3763,LoginPage-2,200,OK,User 1-26,text,true,,25815,127,98,98,https://www.banglapuzzle.com/login,2933,0,0
+1672383307055,4400,HomePage,200,OK,User 1-71,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,394,0,0
+1672383307239,4216,LoginPage,200,OK,User 1-19,text,true,,27738,383,98,98,https://www.banglapuzzle.com/login,642,0,361
+1672383307055,394,HomePage-0,301,Moved Permanently,User 1-71,text,true,,947,122,98,98,http://www.banglapuzzle.com/,394,0,0
+1672383307239,642,LoginPage-0,301,Moved Permanently,User 1-19,text,true,,953,128,98,98,http://www.banglapuzzle.com/login/,642,0,361
+1672383307449,4006,HomePage-1,200,OK,User 1-71,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,1230,0,0
+1672383307881,407,LoginPage-1,301,Moved Permanently,User 1-19,text,true,,970,128,98,98,https://www.banglapuzzle.com/login/,407,0,0
+1672383308288,3167,LoginPage-2,200,OK,User 1-19,text,true,,25815,127,98,98,https://www.banglapuzzle.com/login,2278,0,0
+1672383294091,17447,HomePage,200,OK,User 1-87,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,574,0,283
+1672383294091,574,HomePage-0,301,Moved Permanently,User 1-87,text,true,,947,122,98,98,http://www.banglapuzzle.com/,574,0,283
+1672383294666,16872,HomePage-1,200,OK,User 1-87,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,6047,0,767
+1672383305400,6141,LoginPage,200,OK,User 1-7,text,true,,27738,383,98,98,https://www.banglapuzzle.com/login,1779,0,358
+1672383305400,1779,LoginPage-0,301,Moved Permanently,User 1-7,text,true,,953,128,98,98,http://www.banglapuzzle.com/login/,1779,0,358
+1672383307179,1036,LoginPage-1,301,Moved Permanently,User 1-7,text,true,,970,128,98,98,https://www.banglapuzzle.com/login/,1036,0,0
+1672383308216,3325,LoginPage-2,200,OK,User 1-7,text,true,,25815,127,98,98,https://www.banglapuzzle.com/login,1905,0,0
+1672383304252,7302,LoginPage,200,OK,User 1-92,text,true,,27738,383,98,98,https://www.banglapuzzle.com/login,697,0,336
+1672383304252,697,LoginPage-0,301,Moved Permanently,User 1-92,text,true,,953,128,98,98,http://www.banglapuzzle.com/login/,697,0,336
+1672383304949,334,LoginPage-1,301,Moved Permanently,User 1-92,text,true,,970,128,98,98,https://www.banglapuzzle.com/login/,334,0,0
+1672383305283,6271,LoginPage-2,200,OK,User 1-92,text,true,,25815,127,98,98,https://www.banglapuzzle.com/login,4486,0,0
+1672383294169,17474,HomePage,200,OK,User 1-95,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,730,0,331
+1672383294169,730,HomePage-0,301,Moved Permanently,User 1-95,text,true,,947,122,98,98,http://www.banglapuzzle.com/,730,0,331
+1672383294899,16744,HomePage-1,200,OK,User 1-95,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,8212,0,703
+1672383302946,8697,HomePage,200,OK,User 1-5,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,434,0,0
+1672383302946,434,HomePage-0,301,Moved Permanently,User 1-5,text,true,,947,122,98,98,http://www.banglapuzzle.com/,434,0,0
+1672383303379,8264,HomePage-1,200,OK,User 1-5,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,2918,0,0
+1672383305977,5677,HomePage,200,OK,User 1-18,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,408,0,0
+1672383305977,408,HomePage-0,301,Moved Permanently,User 1-18,text,true,,947,122,98,98,http://www.banglapuzzle.com/,408,0,0
+1672383306386,5268,HomePage-1,200,OK,User 1-18,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,1213,0,0
+1672383293726,17942,HomePage,200,OK,User 1-50,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,642,0,330
+1672383293726,642,HomePage-0,301,Moved Permanently,User 1-50,text,true,,947,122,98,98,http://www.banglapuzzle.com/,642,0,330
+1672383294369,17299,HomePage-1,200,OK,User 1-50,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,9058,0,675
+1672383293324,18780,HomePage,200,OK,User 1-9,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,596,0,307
+1672383293324,600,HomePage-0,301,Moved Permanently,User 1-9,text,true,,947,122,98,98,http://www.banglapuzzle.com/,596,0,307
+1672383293926,18178,HomePage-1,200,OK,User 1-9,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,3546,0,1006
+1672383293876,18328,HomePage,200,OK,User 1-65,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,622,0,307
+1672383293876,622,HomePage-0,301,Moved Permanently,User 1-65,text,true,,947,122,98,98,http://www.banglapuzzle.com/,622,0,307
+1672383294499,17705,HomePage-1,200,OK,User 1-65,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,13222,0,923
+1672383293478,18728,HomePage,200,OK,User 1-27,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,704,0,358
+1672383293478,704,HomePage-0,301,Moved Permanently,User 1-27,text,true,,947,122,98,98,http://www.banglapuzzle.com/,704,0,358
+1672383294184,18022,HomePage-1,200,OK,User 1-27,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,12892,0,781
+1672383293324,18882,HomePage,200,OK,User 1-8,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,686,0,352
+1672383293324,686,HomePage-0,301,Moved Permanently,User 1-8,text,true,,947,122,98,98,http://www.banglapuzzle.com/,686,0,352
+1672383294011,18195,HomePage-1,200,OK,User 1-8,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,10761,0,887
+1672383308509,3736,LoginPage,200,OK,User 1-42,text,true,,27738,383,98,98,https://www.banglapuzzle.com/login,836,0,399
+1672383308509,836,LoginPage-0,301,Moved Permanently,User 1-42,text,true,,953,128,98,98,http://www.banglapuzzle.com/login/,836,0,399
+1672383309345,342,LoginPage-1,301,Moved Permanently,User 1-42,text,true,,970,128,98,98,https://www.banglapuzzle.com/login/,342,0,0
+1672383309687,2558,LoginPage-2,200,OK,User 1-42,text,true,,25815,127,98,98,https://www.banglapuzzle.com/login,1912,0,0
+1672383307220,5041,HomePage,200,OK,User 1-30,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,385,0,0
+1672383307220,385,HomePage-0,301,Moved Permanently,User 1-30,text,true,,947,122,98,98,http://www.banglapuzzle.com/,385,0,0
+1672383307605,4656,HomePage-1,200,OK,User 1-30,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,1592,0,0
+1672383293736,18550,HomePage,200,OK,User 1-51,text,true,,65503,244,98,98,https://www.banglapuzzle.com/,675,0,321
+1672383293736,675,HomePage-0,301,Moved Permanently,User 1-51,text,true,,947,122,98,98,http://www.banglapuzzle.com/,675,0,321
+1672383294412,17874,HomePage-1,200,OK,User 1-51,text,true,,64556,122,98,98,https://www.banglapuzzle.com/,10810,0,644
+1672383308352,3944,LoginPage,200,OK,User 1-49,text,true,,27738,383,98,98,https://www.banglapuzzle.com/login,747,0,375
+1672383308352,747,LoginPage-0,301,Moved Permanently,User 1-49,text,true,,953,128,98,98,http://www.banglapuzzle.com/login/,747,0,375
+1672383309099,399,LoginPage-1,301,Moved Permanently,User 1-49,text,true,,970,128,98,98,https://www.banglapuzzle.com/login/,399,0,0
+1672383309498,2798,LoginPage-2,200,OK,User 1-49,text,true,,25815,127,98,98,https://www.banglapuzzle.com/login,2794,0,0
+1672383308885,3481,LoginPage,200,OK,User 1-73,text,true,,27738,383,98,98,https://www.banglapuzzle.com/login,473,0,0
+1672383308885,473,LoginPage-0,301,Moved Permanently,User 1-73,text,true,,953,128,98,98,http://www.banglapuzzle.com/login/,473,0,0
+1672383309359,279,LoginPage-1,301,Moved Permanently,User 1-73,text,true,,970,128,98,98,https://www.banglapuzzle.com/login/,279,0,0
+1672383309638,2728,LoginPage-2,200,OK,User 1-73,text,true,,25815,127,98,98,https://www.banglapuzzle.com/login,1503,0,0
+1672383305724,6736,HomePage,200,OK,User 1-6,text,true,,65503,244,97,97,https://www.banglapuzzle.com/,1384,0,0
+1672383305724,1384,HomePage-0,301,Moved Permanently,User 1-6,text,true,,947,122,97,97,http://www.banglapuzzle.com/,1384,0,0
+1672383307108,5352,HomePage-1,200,OK,User 1-6,text,true,,64556,122,97,97,https://www.banglapuzzle.com/,1748,0,0
+1672383311668,794,LoginPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-50,text,false,,3551,128,97,97,https://www.banglapuzzle.com/login/,792,0,406
+1672383311668,792,LoginPage-0,301,Moved Permanently,User 1-50,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,792,0,406
+1672383312460,2,LoginPage-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-50,text,false,,2598,0,97,97,https://www.banglapuzzle.com/login/,0,0,0
+1672383307601,5044,LoginPage,200,OK,User 1-68,text,true,,27738,383,97,97,https://www.banglapuzzle.com/login,726,0,341
+1672383307601,726,LoginPage-0,301,Moved Permanently,User 1-68,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,726,0,341
+1672383308328,334,LoginPage-1,301,Moved Permanently,User 1-68,text,true,,970,128,97,97,https://www.banglapuzzle.com/login/,334,0,0
+1672383308662,3983,LoginPage-2,200,OK,User 1-68,text,true,,25815,127,97,97,https://www.banglapuzzle.com/login,2575,0,0
+1672383312104,704,LoginPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-9,text,false,,3551,128,97,97,https://www.banglapuzzle.com/login/,702,0,348
+1672383312104,702,LoginPage-0,301,Moved Permanently,User 1-9,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,702,0,348
+1672383312806,2,LoginPage-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-9,text,false,,2598,0,97,97,https://www.banglapuzzle.com/login/,0,0,0
+1672383294210,18636,HomePage,200,OK,User 1-99,text,true,,65503,244,97,97,https://www.banglapuzzle.com/,661,0,291
+1672383294210,661,HomePage-0,301,Moved Permanently,User 1-99,text,true,,947,122,97,97,http://www.banglapuzzle.com/,661,0,291
+1672383294871,17975,HomePage-1,200,OK,User 1-99,text,true,,64556,122,97,97,https://www.banglapuzzle.com/,4662,0,774
+1672383293895,18952,HomePage,200,OK,User 1-67,text,true,,65503,244,97,97,https://www.banglapuzzle.com/,604,0,289
+1672383293895,604,HomePage-0,301,Moved Permanently,User 1-67,text,true,,947,122,97,97,http://www.banglapuzzle.com/,604,0,289
+1672383294500,18347,HomePage-1,200,OK,User 1-67,text,true,,64556,122,97,97,https://www.banglapuzzle.com/,11413,0,817
+1672383305751,7151,LoginPage,200,OK,User 1-37,text,true,,27738,383,97,97,https://www.banglapuzzle.com/login,1848,0,1406
+1672383305751,1848,LoginPage-0,301,Moved Permanently,User 1-37,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,1848,0,1406
+1672383307599,343,LoginPage-1,301,Moved Permanently,User 1-37,text,true,,970,128,97,97,https://www.banglapuzzle.com/login/,343,0,0
+1672383307942,4960,LoginPage-2,200,OK,User 1-37,text,true,,25815,127,97,97,https://www.banglapuzzle.com/login,3292,0,0
+1672383312206,706,LoginPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-27,text,false,,3551,128,97,97,https://www.banglapuzzle.com/login/,705,0,347
+1672383312206,705,LoginPage-0,301,Moved Permanently,User 1-27,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,705,0,347
+1672383312912,0,LoginPage-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-27,text,false,,2598,0,97,97,https://www.banglapuzzle.com/login/,0,0,0
+1672383305532,7387,LoginPage,200,OK,User 1-58,text,true,,27738,383,97,97,https://www.banglapuzzle.com/login,1822,0,362
+1672383305532,1822,LoginPage-0,301,Moved Permanently,User 1-58,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,1822,0,362
+1672383307355,2137,LoginPage-1,301,Moved Permanently,User 1-58,text,true,,970,128,97,97,https://www.banglapuzzle.com/login/,2137,0,0
+1672383309494,3426,LoginPage-2,200,OK,User 1-58,text,true,,25815,127,97,97,https://www.banglapuzzle.com/login,2547,0,0
+1672383308715,4280,LoginPage,200,OK,User 1-59,text,true,,27738,383,97,97,https://www.banglapuzzle.com/login,776,0,333
+1672383308715,777,LoginPage-0,301,Moved Permanently,User 1-59,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,776,0,333
+1672383309492,275,LoginPage-1,301,Moved Permanently,User 1-59,text,true,,970,128,97,97,https://www.banglapuzzle.com/login/,275,0,0
+1672383309767,3228,LoginPage-2,200,OK,User 1-59,text,true,,25815,127,97,97,https://www.banglapuzzle.com/login,1524,0,0
+1672383304516,8511,LoginPage,200,OK,User 1-60,text,true,,27738,383,97,97,https://www.banglapuzzle.com/login,762,0,383
+1672383304516,762,LoginPage-0,301,Moved Permanently,User 1-60,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,762,0,383
+1672383305278,364,LoginPage-1,301,Moved Permanently,User 1-60,text,true,,970,128,97,97,https://www.banglapuzzle.com/login/,364,0,0
+1672383305642,7385,LoginPage-2,200,OK,User 1-60,text,true,,25815,127,97,97,https://www.banglapuzzle.com/login,3839,0,0
+1672383312204,830,LoginPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-65,text,false,,3551,128,97,97,https://www.banglapuzzle.com/login/,829,0,408
+1672383312204,829,LoginPage-0,301,Moved Permanently,User 1-65,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,829,0,408
+1672383313033,1,LoginPage-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-65,text,false,,2598,0,97,97,https://www.banglapuzzle.com/login/,0,0,0
+1672383306380,6730,HomePage,200,OK,User 1-16,text,true,,65503,244,97,97,https://www.banglapuzzle.com/,318,0,0
+1672383306380,318,HomePage-0,301,Moved Permanently,User 1-16,text,true,,947,122,97,97,http://www.banglapuzzle.com/,318,0,0
+1672383306698,6412,HomePage-1,200,OK,User 1-16,text,true,,64556,122,97,97,https://www.banglapuzzle.com/,1657,0,0
+1672383307691,5423,LoginPage,200,OK,User 1-45,text,true,,27738,383,97,97,https://www.banglapuzzle.com/login,1804,0,1356
+1672383307691,1804,LoginPage-0,301,Moved Permanently,User 1-45,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,1804,0,1356
+1672383309497,274,LoginPage-1,301,Moved Permanently,User 1-45,text,true,,970,128,97,97,https://www.banglapuzzle.com/login/,274,0,0
+1672383309771,3343,LoginPage-2,200,OK,User 1-45,text,true,,25815,127,97,97,https://www.banglapuzzle.com/login,2588,0,0
+1672383308847,4280,LoginPage,200,OK,User 1-100,text,true,,27738,383,97,97,https://www.banglapuzzle.com/login,840,0,487
+1672383308847,840,LoginPage-0,301,Moved Permanently,User 1-100,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,840,0,487
+1672383309687,372,LoginPage-1,301,Moved Permanently,User 1-100,text,true,,970,128,97,97,https://www.banglapuzzle.com/login/,372,0,0
+1672383310059,3068,LoginPage-2,200,OK,User 1-100,text,true,,25815,127,97,97,https://www.banglapuzzle.com/login,2259,0,0
+1672383293409,19776,HomePage,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 47,952)",User 1-20,text,false,,2786,122,97,97,https://www.banglapuzzle.com/,603,0,306
+1672383293409,603,HomePage-0,301,Moved Permanently,User 1-20,text,true,,947,122,97,97,http://www.banglapuzzle.com/,603,0,306
+1672383294012,19173,HomePage-1,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 47,952)",User 1-20,text,false,,1839,0,97,97,https://www.banglapuzzle.com/,6172,0,899
+1672383308972,4216,LoginPage,200,OK,User 1-1,text,true,,27738,383,97,97,https://www.banglapuzzle.com/login,864,0,510
+1672383308972,864,LoginPage-0,301,Moved Permanently,User 1-1,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,864,0,510
+1672383309837,355,LoginPage-1,301,Moved Permanently,User 1-1,text,true,,970,128,97,97,https://www.banglapuzzle.com/login/,355,0,0
+1672383310192,2996,LoginPage-2,200,OK,User 1-1,text,true,,25815,127,97,97,https://www.banglapuzzle.com/login,1507,0,0
+1672383308900,4382,HomePage,200,OK,User 1-83,text,true,,65503,244,97,97,https://www.banglapuzzle.com/,458,0,0
+1672383308900,458,HomePage-0,301,Moved Permanently,User 1-83,text,true,,947,122,97,97,http://www.banglapuzzle.com/,458,0,0
+1672383309359,3923,HomePage-1,200,OK,User 1-83,text,true,,64556,122,97,97,https://www.banglapuzzle.com/,1174,0,0
+1672383307880,5452,LoginPage,200,OK,User 1-61,text,true,,27738,383,97,97,https://www.banglapuzzle.com/login,791,0,371
+1672383307880,791,LoginPage-0,301,Moved Permanently,User 1-61,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,791,0,371
+1672383308672,356,LoginPage-1,301,Moved Permanently,User 1-61,text,true,,970,128,97,97,https://www.banglapuzzle.com/login/,356,0,0
+1672383309029,4303,LoginPage-2,200,OK,User 1-61,text,true,,25815,127,97,97,https://www.banglapuzzle.com/login,3619,0,0
+1672383293995,19371,HomePage,200,OK,User 1-77,text,true,,65503,244,97,97,https://www.banglapuzzle.com/,691,0,366
+1672383293995,691,HomePage-0,301,Moved Permanently,User 1-77,text,true,,947,122,97,97,http://www.banglapuzzle.com/,691,0,366
+1672383294687,18679,HomePage-1,200,OK,User 1-77,text,true,,64556,122,97,97,https://www.banglapuzzle.com/,4426,0,759
+1672383312287,1080,LoginPage,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,User 1-51,text,false,,4554,128,97,97,https://www.banglapuzzle.com/login/,689,0,332
+1672383312287,689,LoginPage-0,301,Moved Permanently,User 1-51,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,689,0,332
+1672383312977,390,LoginPage-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,User 1-51,text,false,,3601,0,97,97,https://www.banglapuzzle.com/login/,0,0,0
+1672383309352,4088,HomePage,200,OK,User 1-3,text,true,,65503,244,97,97,https://www.banglapuzzle.com/,348,0,0
+1672383309352,348,HomePage-0,301,Moved Permanently,User 1-3,text,true,,947,122,97,97,http://www.banglapuzzle.com/,348,0,0
+1672383309700,3740,HomePage-1,200,OK,User 1-3,text,true,,64556,122,97,97,https://www.banglapuzzle.com/,893,0,0
+1672383294159,19378,HomePage,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 15,208)",User 1-94,text,false,,2786,122,97,97,https://www.banglapuzzle.com/,598,0,304
+1672383294159,599,HomePage-0,301,Moved Permanently,User 1-94,text,true,,947,122,97,97,http://www.banglapuzzle.com/,598,0,304
+1672383294769,18768,HomePage-1,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 15,208)",User 1-94,text,false,,1839,0,97,97,https://www.banglapuzzle.com/,18291,0,672
+1672383311457,2117,LoginPage,200,OK,User 1-71,text,true,,27738,383,97,97,https://www.banglapuzzle.com/login,411,0,0
+1672383311457,411,LoginPage-0,301,Moved Permanently,User 1-71,text,true,,953,128,97,97,http://www.banglapuzzle.com/login/,411,0,0
+1672383311868,396,LoginPage-1,301,Moved Permanently,User 1-71,text,true,,970,128,97,97,https://www.banglapuzzle.com/login/,396,0,0
+1672383312264,1310,LoginPage-2,200,OK,User 1-71,text,true,,25815,127,97,97,https://www.banglapuzzle.com/login,906,0,0
+1672383312846,807,LoginPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-99,text,false,,3551,128,96,96,https://www.banglapuzzle.com/login/,807,0,403
+1672383312846,807,LoginPage-0,301,Moved Permanently,User 1-99,text,true,,953,128,96,96,http://www.banglapuzzle.com/login/,807,0,403
+1672383313652,1,LoginPage-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-99,text,false,,2598,0,96,96,https://www.banglapuzzle.com/login/,0,0,0
+1672383312848,813,LoginPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-67,text,false,,3551,128,96,96,https://www.banglapuzzle.com/login/,811,0,402
+1672383312848,811,LoginPage-0,301,Moved Permanently,User 1-67,text,true,,953,128,96,96,http://www.banglapuzzle.com/login/,811,0,402
+1672383313658,3,LoginPage-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-67,text,false,,2598,0,96,96,https://www.banglapuzzle.com/login/,0,0,0
+1672383293796,19871,HomePage,200,OK,User 1-57,text,true,,65503,244,96,96,https://www.banglapuzzle.com/,569,0,282
+1672383293796,569,HomePage-0,301,Moved Permanently,User 1-57,text,true,,947,122,96,96,http://www.banglapuzzle.com/,569,0,282
+1672383294366,19301,HomePage-1,200,OK,User 1-57,text,true,,64556,122,96,96,https://www.banglapuzzle.com/,11437,0,666
+1672383305575,8246,HomePage,200,OK,User 1-32,text,true,,65503,244,96,96,https://www.banglapuzzle.com/,338,0,0
+1672383305575,338,HomePage-0,301,Moved Permanently,User 1-32,text,true,,947,122,96,96,http://www.banglapuzzle.com/,338,0,0
+1672383305914,7907,HomePage-1,200,OK,User 1-32,text,true,,64556,122,96,96,https://www.banglapuzzle.com/,2411,0,0
+1672383293360,20496,HomePage,200,OK,User 1-15,text,true,,65503,244,96,96,https://www.banglapuzzle.com/,646,0,317
+1672383293360,646,HomePage-0,301,Moved Permanently,User 1-15,text,true,,947,122,96,96,http://www.banglapuzzle.com/,646,0,317
+1672383294007,19849,HomePage-1,200,OK,User 1-15,text,true,,64556,122,96,96,https://www.banglapuzzle.com/,12020,0,930
+1672383308430,5449,LoginPage,200,OK,User 1-28,text,true,,27738,383,96,96,https://www.banglapuzzle.com/login,805,0,400
+1672383308430,805,LoginPage-0,301,Moved Permanently,User 1-28,text,true,,953,128,96,96,http://www.banglapuzzle.com/login/,805,0,400
+1672383309235,369,LoginPage-1,301,Moved Permanently,User 1-28,text,true,,970,128,96,96,https://www.banglapuzzle.com/login/,369,0,0
+1672383309604,4275,LoginPage-2,200,OK,User 1-28,text,true,,25815,127,96,96,https://www.banglapuzzle.com/login,3456,0,0
+1672383310927,2956,LoginPage,200,OK,User 1-10,text,true,,27738,383,95,95,https://www.banglapuzzle.com/login,321,0,0
+1672383310927,321,LoginPage-0,301,Moved Permanently,User 1-10,text,true,,953,128,95,95,http://www.banglapuzzle.com/login/,321,0,0
+1672383311248,351,LoginPage-1,301,Moved Permanently,User 1-10,text,true,,970,128,95,95,https://www.banglapuzzle.com/login/,351,0,0
+1672383311599,2284,LoginPage-2,200,OK,User 1-10,text,true,,25815,127,95,95,https://www.banglapuzzle.com/login,1886,0,0
+1672383309694,4285,LoginPage,200,OK,User 1-48,text,true,,27738,383,94,94,https://www.banglapuzzle.com/login,813,0,413
+1672383309694,813,LoginPage-0,301,Moved Permanently,User 1-48,text,true,,953,128,94,94,http://www.banglapuzzle.com/login/,813,0,413
+1672383310507,390,LoginPage-1,301,Moved Permanently,User 1-48,text,true,,970,128,94,94,https://www.banglapuzzle.com/login/,390,0,0
+1672383310897,3082,LoginPage-2,200,OK,User 1-48,text,true,,25815,127,94,94,https://www.banglapuzzle.com/login,1233,0,0
+1672383313366,713,LoginPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-77,text,false,,3551,128,94,94,https://www.banglapuzzle.com/login/,712,0,345
+1672383313366,712,LoginPage-0,301,Moved Permanently,User 1-77,text,true,,953,128,94,94,http://www.banglapuzzle.com/login/,712,0,345
+1672383314078,1,LoginPage-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-77,text,false,,2598,0,94,94,https://www.banglapuzzle.com/login/,0,0,0
+1672383293747,20368,HomePage,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 31,592)",User 1-52,text,false,,2786,122,94,94,https://www.banglapuzzle.com/,615,0,306
+1672383293747,615,HomePage-0,301,Moved Permanently,User 1-52,text,true,,947,122,94,94,http://www.banglapuzzle.com/,615,0,306
+1672383294363,19752,HomePage-1,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 31,592)",User 1-52,text,false,,1839,0,94,94,https://www.banglapuzzle.com/,17059,0,605
+1672383307880,6280,LoginPage,200,OK,User 1-62,text,true,,27738,383,94,94,https://www.banglapuzzle.com/login,1753,0,337
+1672383307880,1753,LoginPage-0,301,Moved Permanently,User 1-62,text,true,,953,128,94,94,http://www.banglapuzzle.com/login/,1753,0,337
+1672383309634,359,LoginPage-1,301,Moved Permanently,User 1-62,text,true,,970,128,94,94,https://www.banglapuzzle.com/login/,359,0,0
+1672383309993,4167,LoginPage-2,200,OK,User 1-62,text,true,,25815,127,94,94,https://www.banglapuzzle.com/login,3434,0,0
+1672383293610,20577,HomePage,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 47,952)",User 1-38,text,false,,2786,122,94,94,https://www.banglapuzzle.com/,574,0,289
+1672383293610,574,HomePage-0,301,Moved Permanently,User 1-38,text,true,,947,122,94,94,http://www.banglapuzzle.com/,574,0,289
+1672383294184,20003,HomePage-1,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 47,952)",User 1-38,text,false,,1839,0,94,94,https://www.banglapuzzle.com/,12733,0,778
+1672383308101,6100,HomePage,200,OK,User 1-46,text,true,,65503,244,94,94,https://www.banglapuzzle.com/,393,0,0
+1672383308101,393,HomePage-0,301,Moved Permanently,User 1-46,text,true,,947,122,94,94,http://www.banglapuzzle.com/,393,0,0
+1672383308495,5706,HomePage-1,200,OK,User 1-46,text,true,,64556,122,94,94,https://www.banglapuzzle.com/,2084,0,0
+1672383310681,3684,LoginPage,200,OK,User 1-91,text,true,,27738,383,94,94,https://www.banglapuzzle.com/login,365,0,0
+1672383310681,365,LoginPage-0,301,Moved Permanently,User 1-91,text,true,,953,128,94,94,http://www.banglapuzzle.com/login/,365,0,0
+1672383311047,330,LoginPage-1,301,Moved Permanently,User 1-91,text,true,,970,128,94,94,https://www.banglapuzzle.com/login/,330,0,0
+1672383311377,2988,LoginPage-2,200,OK,User 1-91,text,true,,25815,127,94,94,https://www.banglapuzzle.com/login,2261,0,0
+1672383313666,708,LoginPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-57,text,false,,3551,128,93,93,https://www.banglapuzzle.com/login/,707,0,359
+1672383313666,707,LoginPage-0,301,Moved Permanently,User 1-57,text,true,,953,128,93,93,http://www.banglapuzzle.com/login/,707,0,359
+1672383314373,1,LoginPage-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-57,text,false,,2598,0,93,93,https://www.banglapuzzle.com/login/,0,0,0
+1672383293972,20455,HomePage,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 47,952)",User 1-75,text,false,,2786,122,93,93,https://www.banglapuzzle.com/,691,0,384
+1672383293972,691,HomePage-0,301,Moved Permanently,User 1-75,text,true,,947,122,93,93,http://www.banglapuzzle.com/,691,0,384
+1672383294664,19763,HomePage-1,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 47,952)",User 1-75,text,false,,1839,0,93,93,https://www.banglapuzzle.com/,13135,0,776
+1672383311539,2894,LoginPage,200,OK,User 1-87,text,true,,27738,383,93,93,https://www.banglapuzzle.com/login,820,0,409
+1672383311539,820,LoginPage-0,301,Moved Permanently,User 1-87,text,true,,953,128,93,93,http://www.banglapuzzle.com/login/,820,0,409
+1672383312359,401,LoginPage-1,301,Moved Permanently,User 1-87,text,true,,970,128,93,93,https://www.banglapuzzle.com/login/,401,0,0
+1672383312761,1672,LoginPage-2,200,OK,User 1-87,text,true,,25815,127,93,93,https://www.banglapuzzle.com/login,1293,0,0
+1672383309004,5487,HomePage,200,OK,User 1-98,text,true,,65503,244,93,93,https://www.banglapuzzle.com/,360,0,0
+1672383309004,360,HomePage-0,301,Moved Permanently,User 1-98,text,true,,947,122,93,93,http://www.banglapuzzle.com/,360,0,0
+1672383309364,5127,HomePage-1,200,OK,User 1-98,text,true,,64556,122,93,93,https://www.banglapuzzle.com/,1039,0,0
+1672383294149,20351,HomePage,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 15,208)",User 1-93,text,false,,2786,122,93,93,https://www.banglapuzzle.com/,571,0,288
+1672383294149,571,HomePage-0,301,Moved Permanently,User 1-93,text,true,,947,122,93,93,http://www.banglapuzzle.com/,571,0,288
+1672383294722,19778,HomePage-1,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 15,208)",User 1-93,text,false,,1839,0,93,93,https://www.banglapuzzle.com/,19778,0,720
+1672383310279,4323,LoginPage,200,OK,User 1-40,text,true,,27738,383,93,93,https://www.banglapuzzle.com/login,803,0,409
+1672383310279,803,LoginPage-0,301,Moved Permanently,User 1-40,text,true,,953,128,93,93,http://www.banglapuzzle.com/login/,803,0,409
+1672383311082,1122,LoginPage-1,301,Moved Permanently,User 1-40,text,true,,970,128,93,93,https://www.banglapuzzle.com/login/,1122,0,0
+1672383312204,2398,LoginPage-2,200,OK,User 1-40,text,true,,25815,127,93,93,https://www.banglapuzzle.com/login,1862,0,0
+1672383310270,4347,LoginPage,200,OK,User 1-31,text,true,,27738,383,93,93,https://www.banglapuzzle.com/login,788,0,389
+1672383310270,789,LoginPage-0,301,Moved Permanently,User 1-31,text,true,,953,128,93,93,http://www.banglapuzzle.com/login/,788,0,389
+1672383311059,362,LoginPage-1,301,Moved Permanently,User 1-31,text,true,,970,128,93,93,https://www.banglapuzzle.com/login/,362,0,0
+1672383311422,3195,LoginPage-2,200,OK,User 1-31,text,true,,25815,127,93,93,https://www.banglapuzzle.com/login,1811,0,0
+1672383313855,779,LoginPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-15,text,false,,3551,128,92,92,https://www.banglapuzzle.com/login/,777,0,389
+1672383313855,777,LoginPage-0,301,Moved Permanently,User 1-15,text,true,,953,128,92,92,http://www.banglapuzzle.com/login/,777,0,389
+1672383314633,1,LoginPage-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-15,text,false,,2598,0,92,92,https://www.banglapuzzle.com/login/,0,0,0
+1672383312206,2510,LoginPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-8,text,false,,3551,128,92,92,https://www.banglapuzzle.com/login/,2510,0,393
+1672383312206,2510,LoginPage-0,301,Moved Permanently,User 1-8,text,true,,953,128,92,92,http://www.banglapuzzle.com/login/,2510,0,393
+1672383314715,1,LoginPage-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-8,text,false,,2598,0,92,92,https://www.banglapuzzle.com/login/,0,0,0
+1672383293943,20854,HomePage,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 15,208)",User 1-72,text,false,,2786,122,92,92,https://www.banglapuzzle.com/,584,0,300
+1672383293943,584,HomePage-0,301,Moved Permanently,User 1-72,text,true,,947,122,92,92,http://www.banglapuzzle.com/,584,0,300
+1672383294528,20269,HomePage-1,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 15,208)",User 1-72,text,false,,1839,0,92,92,https://www.banglapuzzle.com/,20268,0,643
+1672383305948,8874,LoginPage,200,OK,User 1-64,text,true,,27738,383,92,92,https://www.banglapuzzle.com/login,4810,0,1405
+1672383305948,4810,LoginPage-0,301,Moved Permanently,User 1-64,text,true,,953,128,92,92,http://www.banglapuzzle.com/login/,4810,0,1405
+1672383310759,396,LoginPage-1,301,Moved Permanently,User 1-64,text,true,,970,128,92,92,https://www.banglapuzzle.com/login/,396,0,0
+1672383311156,3666,LoginPage-2,200,OK,User 1-64,text,true,,25815,127,92,92,https://www.banglapuzzle.com/login,2441,0,0
+1672383293323,21661,HomePage,200,OK,User 1-4,text,true,,65503,244,92,92,https://www.banglapuzzle.com/,687,0,353
+1672383293323,688,HomePage-0,301,Moved Permanently,User 1-4,text,true,,947,122,92,92,http://www.banglapuzzle.com/,687,0,353
+1672383294013,20971,HomePage-1,200,OK,User 1-4,text,true,,64556,122,92,92,https://www.banglapuzzle.com/,6648,0,863
+1672383306579,8678,HomePage,200,OK,User 1-41,text,true,,65503,244,92,92,https://www.banglapuzzle.com/,309,0,0
+1672383306579,309,HomePage-0,301,Moved Permanently,User 1-41,text,true,,947,122,92,92,http://www.banglapuzzle.com/,309,0,0
+1672383306888,8369,HomePage-1,200,OK,User 1-41,text,true,,64556,122,92,92,https://www.banglapuzzle.com/,2898,0,0
+1672383309419,5842,HomePage,200,OK,User 1-79,text,true,,65503,244,92,92,https://www.banglapuzzle.com/,286,0,0
+1672383309419,286,HomePage-0,301,Moved Permanently,User 1-79,text,true,,947,122,92,92,http://www.banglapuzzle.com/,286,0,0
+1672383309705,5556,HomePage-1,200,OK,User 1-79,text,true,,64556,122,92,92,https://www.banglapuzzle.com/,1976,0,0
+1672383313282,2002,LoginPage,200,OK,User 1-83,text,true,,27738,383,92,92,https://www.banglapuzzle.com/login,410,0,0
+1672383313282,410,LoginPage-0,301,Moved Permanently,User 1-83,text,true,,953,128,92,92,http://www.banglapuzzle.com/login/,410,0,0
+1672383313691,390,LoginPage-1,301,Moved Permanently,User 1-83,text,true,,970,128,92,92,https://www.banglapuzzle.com/login/,390,0,0
+1672383314081,1203,LoginPage-2,200,OK,User 1-83,text,true,,25815,127,92,92,https://www.banglapuzzle.com/login,805,0,0
+1672383311170,4166,HomePage,200,OK,User 1-69,text,true,,65503,244,91,91,https://www.banglapuzzle.com/,369,0,0
+1672383311170,369,HomePage-0,301,Moved Permanently,User 1-69,text,true,,947,122,91,91,http://www.banglapuzzle.com/,369,0,0
+1672383311539,3797,HomePage-1,200,OK,User 1-69,text,true,,64556,122,91,91,https://www.banglapuzzle.com/,1796,0,0
+1672383307635,7786,HomePage,200,OK,User 1-84,text,true,,65503,244,91,91,https://www.banglapuzzle.com/,351,0,0
+1672383307635,351,HomePage-0,301,Moved Permanently,User 1-84,text,true,,947,122,91,91,http://www.banglapuzzle.com/,351,0,0
+1672383307986,7435,HomePage-1,200,OK,User 1-84,text,true,,64556,122,91,91,https://www.banglapuzzle.com/,1780,0,0
+1672383308631,6806,LoginPage,200,OK,User 1-90,text,true,,27738,383,91,91,https://www.banglapuzzle.com/login,733,0,356
+1672383308631,733,LoginPage-0,301,Moved Permanently,User 1-90,text,true,,953,128,91,91,http://www.banglapuzzle.com/login/,733,0,356
+1672383309364,274,LoginPage-1,301,Moved Permanently,User 1-90,text,true,,970,128,91,91,https://www.banglapuzzle.com/login/,274,0,0
+1672383309638,5799,LoginPage-2,200,OK,User 1-90,text,true,,25815,127,91,91,https://www.banglapuzzle.com/login,4718,0,0
+1672383309499,5972,HomePage,200,OK,User 1-25,text,true,,65503,244,91,91,https://www.banglapuzzle.com/,684,0,333
+1672383309499,684,HomePage-0,301,Moved Permanently,User 1-25,text,true,,947,122,91,91,http://www.banglapuzzle.com/,684,0,333
+1672383310184,5287,HomePage-1,200,OK,User 1-25,text,true,,64556,122,91,91,https://www.banglapuzzle.com/,2102,0,0
+1672383308795,6694,LoginPage,200,OK,User 1-21,text,true,,27738,383,91,91,https://www.banglapuzzle.com/login,740,0,378
+1672383308795,740,LoginPage-0,301,Moved Permanently,User 1-21,text,true,,953,128,91,91,http://www.banglapuzzle.com/login/,740,0,378
+1672383309535,391,LoginPage-1,301,Moved Permanently,User 1-21,text,true,,970,128,91,91,https://www.banglapuzzle.com/login/,391,0,0
+1672383309926,5563,LoginPage-2,200,OK,User 1-21,text,true,,25815,127,91,91,https://www.banglapuzzle.com/login,3681,0,0
+1672383311643,3848,LoginPage,200,OK,User 1-95,text,true,,27738,383,91,91,https://www.banglapuzzle.com/login,791,0,398
+1672383311643,791,LoginPage-0,301,Moved Permanently,User 1-95,text,true,,953,128,91,91,http://www.banglapuzzle.com/login/,791,0,398
+1672383312434,345,LoginPage-1,301,Moved Permanently,User 1-95,text,true,,970,128,91,91,https://www.banglapuzzle.com/login/,345,0,0
+1672383312779,2712,LoginPage-2,200,OK,User 1-95,text,true,,25815,127,91,91,https://www.banglapuzzle.com/login,2353,0,0
+1672383310467,5138,LoginPage,200,OK,User 1-12,text,true,,27738,383,91,91,https://www.banglapuzzle.com/login,704,0,359
+1672383310467,704,LoginPage-0,301,Moved Permanently,User 1-12,text,true,,953,128,91,91,http://www.banglapuzzle.com/login/,704,0,359
+1672383311171,428,LoginPage-1,301,Moved Permanently,User 1-12,text,true,,970,128,91,91,https://www.banglapuzzle.com/login/,428,0,0
+1672383311599,4006,LoginPage-2,200,OK,User 1-12,text,true,,25815,127,91,91,https://www.banglapuzzle.com/login,3201,0,0
+1672383314985,736,LoginPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-4,text,false,,3551,128,90,90,https://www.banglapuzzle.com/login/,734,0,354
+1672383314985,734,LoginPage-0,301,Moved Permanently,User 1-4,text,true,,953,128,90,90,http://www.banglapuzzle.com/login/,734,0,354
+1672383315719,2,LoginPage-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-4,text,false,,2598,0,90,90,https://www.banglapuzzle.com/login/,0,0,0
+1672383306403,9361,HomePage,200,OK,User 1-22,text,true,,65503,244,90,90,https://www.banglapuzzle.com/,324,0,0
+1672383306403,324,HomePage-0,301,Moved Permanently,User 1-22,text,true,,947,122,90,90,http://www.banglapuzzle.com/,324,0,0
+1672383306727,9037,HomePage-1,200,OK,User 1-22,text,true,,64556,122,90,90,https://www.banglapuzzle.com/,1781,0,0
+1672383308825,6947,HomePage,200,OK,User 1-23,text,true,,65503,244,90,90,https://www.banglapuzzle.com/,741,0,373
+1672383308825,741,HomePage-0,301,Moved Permanently,User 1-23,text,true,,947,122,90,90,http://www.banglapuzzle.com/,741,0,373
+1672383309567,6205,HomePage-1,200,OK,User 1-23,text,true,,64556,122,90,90,https://www.banglapuzzle.com/,2316,0,0
+1672383309525,6324,HomePage,200,OK,User 1-33,text,true,,65503,244,90,90,https://www.banglapuzzle.com/,307,0,0
+1672383309525,307,HomePage-0,301,Moved Permanently,User 1-33,text,true,,947,122,90,90,http://www.banglapuzzle.com/,307,0,0
+1672383309832,6017,HomePage-1,200,OK,User 1-33,text,true,,64556,122,90,90,https://www.banglapuzzle.com/,2015,0,0
+1672383310254,5691,LoginPage,200,OK,User 1-78,text,true,,27738,383,90,90,https://www.banglapuzzle.com/login,811,0,405
+1672383310254,811,LoginPage-0,301,Moved Permanently,User 1-78,text,true,,953,128,90,90,http://www.banglapuzzle.com/login/,811,0,405
+1672383311065,1087,LoginPage-1,301,Moved Permanently,User 1-78,text,true,,970,128,90,90,https://www.banglapuzzle.com/login/,1087,0,0
+1672383312153,3792,LoginPage-2,200,OK,User 1-78,text,true,,25815,127,90,90,https://www.banglapuzzle.com/login,2595,0,0
+1672383308575,7389,HomePage,200,OK,User 1-80,text,true,,65503,244,90,90,https://www.banglapuzzle.com/,409,0,0
+1672383308575,409,HomePage-0,301,Moved Permanently,User 1-80,text,true,,947,122,90,90,http://www.banglapuzzle.com/,409,0,0
+1672383308985,6979,HomePage-1,200,OK,User 1-80,text,true,,64556,122,90,90,https://www.banglapuzzle.com/,2112,0,0
+1672383312262,3742,LoginPage,200,OK,User 1-30,text,true,,27738,383,90,90,https://www.banglapuzzle.com/login,398,0,0
+1672383312262,398,LoginPage-0,301,Moved Permanently,User 1-30,text,true,,953,128,90,90,http://www.banglapuzzle.com/login/,398,0,0
+1672383312660,917,LoginPage-1,301,Moved Permanently,User 1-30,text,true,,970,128,90,90,https://www.banglapuzzle.com/login/,917,0,0
+1672383313577,2426,LoginPage-2,200,OK,User 1-30,text,true,,25815,127,90,90,https://www.banglapuzzle.com/login,1852,0,0
+1672383309029,7019,HomePage,200,OK,User 1-55,text,true,,65503,244,89,89,https://www.banglapuzzle.com/,468,0,0
+1672383309029,468,HomePage-0,301,Moved Permanently,User 1-55,text,true,,947,122,89,89,http://www.banglapuzzle.com/,468,0,0
+1672383309497,6551,HomePage-1,200,OK,User 1-55,text,true,,64556,122,89,89,https://www.banglapuzzle.com/,1558,0,0
+1672383308615,7708,HomePage,200,OK,User 1-14,text,true,,65503,244,89,89,https://www.banglapuzzle.com/,399,0,0
+1672383308615,399,HomePage-0,301,Moved Permanently,User 1-14,text,true,,947,122,89,89,http://www.banglapuzzle.com/,399,0,0
+1672383309014,7309,HomePage-1,200,OK,User 1-14,text,true,,64556,122,89,89,https://www.banglapuzzle.com/,3261,0,0
+1672383309040,7439,HomePage,200,OK,User 1-24,text,true,,65503,244,89,89,https://www.banglapuzzle.com/,813,0,457
+1672383309040,813,HomePage-0,301,Moved Permanently,User 1-24,text,true,,947,122,89,89,http://www.banglapuzzle.com/,813,0,457
+1672383309854,6625,HomePage-1,200,OK,User 1-24,text,true,,64556,122,89,89,https://www.banglapuzzle.com/,3091,0,0
+1672383310969,5569,LoginPage,200,OK,User 1-56,text,true,,27738,383,89,89,https://www.banglapuzzle.com/login,805,0,406
+1672383310969,805,LoginPage-0,301,Moved Permanently,User 1-56,text,true,,953,128,89,89,http://www.banglapuzzle.com/login/,805,0,406
+1672383311774,431,LoginPage-1,301,Moved Permanently,User 1-56,text,true,,970,128,89,89,https://www.banglapuzzle.com/login/,431,0,0
+1672383312205,4333,LoginPage-2,200,OK,User 1-56,text,true,,25815,127,89,89,https://www.banglapuzzle.com/login,2068,0,0
+1672383309975,6753,LoginPage,200,OK,User 1-89,text,true,,27738,383,88,88,https://www.banglapuzzle.com/login,718,0,359
+1672383309975,718,LoginPage-0,301,Moved Permanently,User 1-89,text,true,,953,128,88,88,http://www.banglapuzzle.com/login/,718,0,359
+1672383310693,362,LoginPage-1,301,Moved Permanently,User 1-89,text,true,,970,128,88,88,https://www.banglapuzzle.com/login/,362,0,0
+1672383311055,5673,LoginPage-2,200,OK,User 1-89,text,true,,25815,127,88,88,https://www.banglapuzzle.com/login,4171,0,0
+1672383307794,8989,HomePage,200,OK,User 1-88,text,true,,65503,244,88,88,https://www.banglapuzzle.com/,355,0,0
+1672383307794,355,HomePage-0,301,Moved Permanently,User 1-88,text,true,,947,122,88,88,http://www.banglapuzzle.com/,355,0,0
+1672383308149,8634,HomePage-1,200,OK,User 1-88,text,true,,64556,122,88,88,https://www.banglapuzzle.com/,4054,0,0
+1672383293756,23206,HomePage,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 47,952)",User 1-53,text,false,,2786,122,88,88,https://www.banglapuzzle.com/,681,0,334
+1672383293756,681,HomePage-0,301,Moved Permanently,User 1-53,text,true,,947,122,88,88,http://www.banglapuzzle.com/,681,0,334
+1672383294437,22525,HomePage-1,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 47,952)",User 1-53,text,false,,1839,0,88,88,https://www.banglapuzzle.com/,7405,0,653
+1672383313821,3364,LoginPage,200,OK,User 1-32,text,true,,27738,383,88,88,https://www.banglapuzzle.com/login,768,0,399
+1672383313821,768,LoginPage-0,301,Moved Permanently,User 1-32,text,true,,953,128,88,88,http://www.banglapuzzle.com/login/,768,0,399
+1672383314589,395,LoginPage-1,301,Moved Permanently,User 1-32,text,true,,970,128,88,88,https://www.banglapuzzle.com/login/,395,0,0
+1672383314984,2201,LoginPage-2,200,OK,User 1-32,text,true,,25815,127,88,88,https://www.banglapuzzle.com/login,1579,0,0
+1672383315336,2044,LoginPage,200,OK,User 1-69,text,true,,27738,383,87,87,https://www.banglapuzzle.com/login,383,0,0
+1672383315336,383,LoginPage-0,301,Moved Permanently,User 1-69,text,true,,953,128,87,87,http://www.banglapuzzle.com/login/,383,0,0
+1672383315719,393,LoginPage-1,301,Moved Permanently,User 1-69,text,true,,970,128,87,87,https://www.banglapuzzle.com/login/,393,0,0
+1672383316112,1268,LoginPage-2,200,OK,User 1-69,text,true,,25815,127,87,87,https://www.banglapuzzle.com/login,1268,0,0
+1672383313112,4469,LoginPage,200,OK,User 1-16,text,true,,27738,383,86,86,https://www.banglapuzzle.com/login,711,0,350
+1672383313112,711,LoginPage-0,301,Moved Permanently,User 1-16,text,true,,953,128,86,86,http://www.banglapuzzle.com/login/,711,0,350
+1672383313822,358,LoginPage-1,301,Moved Permanently,User 1-16,text,true,,970,128,86,86,https://www.banglapuzzle.com/login/,358,0,0
+1672383314180,3401,LoginPage-2,200,OK,User 1-16,text,true,,25815,127,86,86,https://www.banglapuzzle.com/login,2315,0,0
+1672383312996,4689,HomePage,200,OK,User 1-59,text,true,,65503,244,85,85,https://www.banglapuzzle.com/,350,0,0
+1672383312996,350,HomePage-0,301,Moved Permanently,User 1-59,text,true,,947,122,85,85,http://www.banglapuzzle.com/,350,0,0
+1672383313345,4340,HomePage-1,200,OK,User 1-59,text,true,,64556,122,85,85,https://www.banglapuzzle.com/,1458,0,0
+1672383308023,9709,HomePage,200,OK,User 1-43,text,true,,65503,244,85,85,https://www.banglapuzzle.com/,1603,0,0
+1672383308023,1603,HomePage-0,301,Moved Permanently,User 1-43,text,true,,947,122,85,85,http://www.banglapuzzle.com/,1603,0,0
+1672383309627,8105,HomePage-1,200,OK,User 1-43,text,true,,64556,122,85,85,https://www.banglapuzzle.com/,1528,0,0
+1672383311245,6552,HomePage,200,OK,User 1-47,text,true,,65503,244,85,85,https://www.banglapuzzle.com/,360,0,0
+1672383311245,360,HomePage-0,301,Moved Permanently,User 1-47,text,true,,947,122,85,85,http://www.banglapuzzle.com/,360,0,0
+1672383311605,6192,HomePage-1,200,OK,User 1-47,text,true,,64556,122,85,85,https://www.banglapuzzle.com/,2002,0,0
+1672383311555,6250,HomePage,200,OK,User 1-92,text,true,,65503,244,85,85,https://www.banglapuzzle.com/,804,0,395
+1672383311555,804,HomePage-0,301,Moved Permanently,User 1-92,text,true,,947,122,85,85,http://www.banglapuzzle.com/,804,0,395
+1672383312359,5446,HomePage-1,200,OK,User 1-92,text,true,,64556,122,85,85,https://www.banglapuzzle.com/,1612,0,0
+1672383310059,7900,HomePage,200,OK,User 1-81,text,true,,65503,244,85,85,https://www.banglapuzzle.com/,1547,0,0
+1672383310059,1547,HomePage-0,301,Moved Permanently,User 1-81,text,true,,947,122,85,85,http://www.banglapuzzle.com/,1547,0,0
+1672383311606,6353,HomePage-1,200,OK,User 1-81,text,true,,64556,122,85,85,https://www.banglapuzzle.com/,2309,0,0
+1672383314490,3488,LoginPage,200,OK,User 1-98,text,true,,27738,383,85,85,https://www.banglapuzzle.com/login,817,0,388
+1672383314490,817,LoginPage-0,301,Moved Permanently,User 1-98,text,true,,953,128,85,85,http://www.banglapuzzle.com/login/,817,0,388
+1672383315307,360,LoginPage-1,301,Moved Permanently,User 1-98,text,true,,970,128,85,85,https://www.banglapuzzle.com/login/,360,0,0
+1672383315668,2310,LoginPage-2,200,OK,User 1-98,text,true,,25815,127,85,85,https://www.banglapuzzle.com/login,1845,0,0
+1672383307807,10180,HomePage,200,OK,User 1-2,text,true,,65503,244,84,84,https://www.banglapuzzle.com/,366,0,0
+1672383307807,366,HomePage-0,301,Moved Permanently,User 1-2,text,true,,947,122,84,84,http://www.banglapuzzle.com/,366,0,0
+1672383308173,9814,HomePage-1,200,OK,User 1-2,text,true,,64556,122,84,84,https://www.banglapuzzle.com/,3248,0,0
+1672383313439,4572,LoginPage,200,OK,User 1-3,text,true,,27738,383,84,84,https://www.banglapuzzle.com/login,430,0,0
+1672383313439,430,LoginPage-0,301,Moved Permanently,User 1-3,text,true,,953,128,84,84,http://www.banglapuzzle.com/login/,430,0,0
+1672383313869,376,LoginPage-1,301,Moved Permanently,User 1-3,text,true,,970,128,84,84,https://www.banglapuzzle.com/login/,376,0,0
+1672383314245,3766,LoginPage-2,200,OK,User 1-3,text,true,,25815,127,84,84,https://www.banglapuzzle.com/login,2086,0,0
+1672383311644,6408,LoginPage,200,OK,User 1-5,text,true,,27738,383,83,83,https://www.banglapuzzle.com/login,1798,0,329
+1672383311644,1798,LoginPage-0,301,Moved Permanently,User 1-5,text,true,,953,128,83,83,http://www.banglapuzzle.com/login/,1798,0,329
+1672383313442,379,LoginPage-1,301,Moved Permanently,User 1-5,text,true,,970,128,83,83,https://www.banglapuzzle.com/login/,379,0,0
+1672383313821,4231,LoginPage-2,200,OK,User 1-5,text,true,,25815,127,83,83,https://www.banglapuzzle.com/login,3818,0,0
+1672383314797,3456,LoginPage,200,OK,User 1-72,text,true,,27738,383,82,82,https://www.banglapuzzle.com/login,827,0,404
+1672383314797,827,LoginPage-0,301,Moved Permanently,User 1-72,text,true,,953,128,82,82,http://www.banglapuzzle.com/login/,827,0,404
+1672383315624,1108,LoginPage-1,301,Moved Permanently,User 1-72,text,true,,970,128,82,82,https://www.banglapuzzle.com/login/,1108,0,772
+1672383316732,1521,LoginPage-2,200,OK,User 1-72,text,true,,25815,127,82,82,https://www.banglapuzzle.com/login,1198,0,0
+1672383312246,6050,HomePage,200,OK,User 1-42,text,true,,65503,244,82,82,https://www.banglapuzzle.com/,407,0,0
+1672383312246,407,HomePage-0,301,Moved Permanently,User 1-42,text,true,,947,122,82,82,http://www.banglapuzzle.com/,407,0,0
+1672383312653,5643,HomePage-1,200,OK,User 1-42,text,true,,64556,122,82,82,https://www.banglapuzzle.com/,2439,0,0
+1672383314200,4162,LoginPage,200,OK,User 1-46,text,true,,27738,383,82,82,https://www.banglapuzzle.com/login,691,0,349
+1672383314200,692,LoginPage-0,301,Moved Permanently,User 1-46,text,true,,953,128,82,82,http://www.banglapuzzle.com/login/,691,0,349
+1672383314892,399,LoginPage-1,301,Moved Permanently,User 1-46,text,true,,970,128,82,82,https://www.banglapuzzle.com/login/,399,0,0
+1672383315291,3071,LoginPage-2,200,OK,User 1-46,text,true,,25815,127,82,82,https://www.banglapuzzle.com/login,1617,0,0
+1672383311656,6878,LoginPage,200,OK,User 1-18,text,true,,27738,383,81,81,https://www.banglapuzzle.com/login,2011,0,1662
+1672383311656,2011,LoginPage-0,301,Moved Permanently,User 1-18,text,true,,953,128,81,81,http://www.banglapuzzle.com/login/,2011,0,1662
+1672383313666,951,LoginPage-1,301,Moved Permanently,User 1-18,text,true,,970,128,81,81,https://www.banglapuzzle.com/login/,951,0,0
+1672383314617,3917,LoginPage-2,200,OK,User 1-18,text,true,,25815,127,81,81,https://www.banglapuzzle.com/login,3195,0,0
+1672383312462,6159,LoginPage,200,OK,User 1-6,text,true,,27738,383,80,80,https://www.banglapuzzle.com/login,725,0,372
+1672383312462,725,LoginPage-0,301,Moved Permanently,User 1-6,text,true,,953,128,80,80,http://www.banglapuzzle.com/login/,725,0,372
+1672383313187,349,LoginPage-1,301,Moved Permanently,User 1-6,text,true,,970,128,80,80,https://www.banglapuzzle.com/login/,349,0,0
+1672383313535,5085,LoginPage-2,200,OK,User 1-6,text,true,,25815,127,80,80,https://www.banglapuzzle.com/login,2938,0,0
+1672383315764,2919,LoginPage,200,OK,User 1-22,text,true,,27738,383,79,79,https://www.banglapuzzle.com/login,714,0,347
+1672383315764,714,LoginPage-0,301,Moved Permanently,User 1-22,text,true,,953,128,79,79,http://www.banglapuzzle.com/login/,714,0,347
+1672383316478,361,LoginPage-1,301,Moved Permanently,User 1-22,text,true,,970,128,79,79,https://www.banglapuzzle.com/login/,361,0,0
+1672383316839,1844,LoginPage-2,200,OK,User 1-22,text,true,,25815,127,79,79,https://www.banglapuzzle.com/login,1135,0,0
+1672383312297,6442,HomePage,200,OK,User 1-49,text,true,,65503,244,78,78,https://www.banglapuzzle.com/,341,0,0
+1672383312297,341,HomePage-0,301,Moved Permanently,User 1-49,text,true,,947,122,78,78,http://www.banglapuzzle.com/,341,0,0
+1672383312638,6101,HomePage-1,200,OK,User 1-49,text,true,,64556,122,78,78,https://www.banglapuzzle.com/,1283,0,0
+1672383310190,8684,LoginPage,200,OK,User 1-86,text,true,,27738,383,78,78,https://www.banglapuzzle.com/login,705,0,348
+1672383310190,705,LoginPage-0,301,Moved Permanently,User 1-86,text,true,,953,128,78,78,http://www.banglapuzzle.com/login/,705,0,348
+1672383310895,349,LoginPage-1,301,Moved Permanently,User 1-86,text,true,,970,128,78,78,https://www.banglapuzzle.com/login/,349,0,0
+1672383311245,7629,LoginPage-2,200,OK,User 1-86,text,true,,25815,127,78,78,https://www.banglapuzzle.com/login,4063,0,0
+1672383309494,9440,HomePage,200,OK,User 1-11,text,true,,65503,244,78,78,https://www.banglapuzzle.com/,293,0,0
+1672383309494,293,HomePage-0,301,Moved Permanently,User 1-11,text,true,,947,122,78,78,http://www.banglapuzzle.com/,293,0,0
+1672383309787,9147,HomePage-1,200,OK,User 1-11,text,true,,64556,122,78,78,https://www.banglapuzzle.com/,2851,0,0
+1672383310802,8223,HomePage,200,OK,User 1-39,text,true,,65503,244,78,78,https://www.banglapuzzle.com/,339,0,0
+1672383310802,339,HomePage-0,301,Moved Permanently,User 1-39,text,true,,947,122,78,78,http://www.banglapuzzle.com/,339,0,0
+1672383311141,7884,HomePage-1,200,OK,User 1-39,text,true,,64556,122,78,78,https://www.banglapuzzle.com/,3167,0,0
+1672383309832,9198,HomePage,200,OK,User 1-76,text,true,,65503,244,78,78,https://www.banglapuzzle.com/,707,0,351
+1672383309832,707,HomePage-0,301,Moved Permanently,User 1-76,text,true,,947,122,78,78,http://www.banglapuzzle.com/,707,0,351
+1672383310539,8491,HomePage-1,200,OK,User 1-76,text,true,,64556,122,78,78,https://www.banglapuzzle.com/,2793,0,0
+1672383312463,6614,HomePage,200,OK,User 1-50,text,true,,65503,244,78,78,https://www.banglapuzzle.com/,384,0,0
+1672383312463,384,HomePage-0,301,Moved Permanently,User 1-50,text,true,,947,122,78,78,http://www.banglapuzzle.com/,384,0,0
+1672383312847,6230,HomePage-1,200,OK,User 1-50,text,true,,64556,122,78,78,https://www.banglapuzzle.com/,2453,0,1588
+1672383314080,5086,HomePage,200,OK,User 1-77,text,true,,65503,244,78,78,https://www.banglapuzzle.com/,357,0,0
+1672383314080,357,HomePage-0,301,Moved Permanently,User 1-77,text,true,,947,122,78,78,http://www.banglapuzzle.com/,357,0,0
+1672383314437,4729,HomePage-1,200,OK,User 1-77,text,true,,64556,122,78,78,https://www.banglapuzzle.com/,2768,0,766
+1672383315963,3235,LoginPage,200,OK,User 1-80,text,true,,27738,383,78,78,https://www.banglapuzzle.com/login,820,0,431
+1672383315963,820,LoginPage-0,301,Moved Permanently,User 1-80,text,true,,953,128,78,78,http://www.banglapuzzle.com/login/,820,0,431
+1672383316784,391,LoginPage-1,301,Moved Permanently,User 1-80,text,true,,970,128,78,78,https://www.banglapuzzle.com/login/,391,0,0
+1672383317175,2023,LoginPage-2,200,OK,User 1-80,text,true,,25815,127,78,78,https://www.banglapuzzle.com/login,1259,0,0
+1672383313367,5885,HomePage,200,OK,User 1-51,text,true,,65503,244,77,77,https://www.banglapuzzle.com/,366,0,0
+1672383313367,366,HomePage-0,301,Moved Permanently,User 1-51,text,true,,947,122,77,77,http://www.banglapuzzle.com/,366,0,0
+1672383313733,5519,HomePage-1,200,OK,User 1-51,text,true,,64556,122,77,77,https://www.banglapuzzle.com/,2710,0,760
+1672383310675,8631,HomePage,200,OK,User 1-54,text,true,,65503,244,77,77,https://www.banglapuzzle.com/,371,0,0
+1672383310675,371,HomePage-0,301,Moved Permanently,User 1-54,text,true,,947,122,77,77,http://www.banglapuzzle.com/,371,0,0
+1672383311047,8259,HomePage-1,200,OK,User 1-54,text,true,,64556,122,77,77,https://www.banglapuzzle.com/,3368,0,0
+1672383311543,7898,HomePage,200,OK,User 1-7,text,true,,65503,244,77,77,https://www.banglapuzzle.com/,350,0,0
+1672383311543,350,HomePage-0,301,Moved Permanently,User 1-7,text,true,,947,122,77,77,http://www.banglapuzzle.com/,350,0,0
+1672383311893,7548,HomePage-1,200,OK,User 1-7,text,true,,64556,122,77,77,https://www.banglapuzzle.com/,2700,0,0
+1672383314717,4839,HomePage,200,OK,User 1-8,text,true,,65503,244,77,77,https://www.banglapuzzle.com/,384,0,0
+1672383314717,384,HomePage-0,301,Moved Permanently,User 1-8,text,true,,947,122,77,77,http://www.banglapuzzle.com/,384,0,0
+1672383315101,4455,HomePage-1,200,OK,User 1-8,text,true,,64556,122,77,77,https://www.banglapuzzle.com/,1565,0,754
+1672383311130,8439,HomePage,200,OK,User 1-35,text,true,,65503,244,77,77,https://www.banglapuzzle.com/,372,0,0
+1672383311130,372,HomePage-0,301,Moved Permanently,User 1-35,text,true,,947,122,77,77,http://www.banglapuzzle.com/,372,0,0
+1672383311503,8066,HomePage-1,200,OK,User 1-35,text,true,,64556,122,77,77,https://www.banglapuzzle.com/,2210,0,0
+1672383315421,4162,LoginPage,200,OK,User 1-84,text,true,,27738,383,77,77,https://www.banglapuzzle.com/login,715,0,367
+1672383315421,715,LoginPage-0,301,Moved Permanently,User 1-84,text,true,,953,128,77,77,http://www.banglapuzzle.com/login/,715,0,367
+1672383316136,359,LoginPage-1,301,Moved Permanently,User 1-84,text,true,,970,128,77,77,https://www.banglapuzzle.com/login/,359,0,0
+1672383316495,3088,LoginPage-2,200,OK,User 1-84,text,true,,25815,127,77,77,https://www.banglapuzzle.com/login,2478,0,0
+1672383316322,3299,LoginPage,200,OK,User 1-14,text,true,,27738,383,76,76,https://www.banglapuzzle.com/login,782,0,376
+1672383316322,782,LoginPage-0,301,Moved Permanently,User 1-14,text,true,,953,128,76,76,http://www.banglapuzzle.com/login/,782,0,376
+1672383317105,336,LoginPage-1,301,Moved Permanently,User 1-14,text,true,,970,128,76,76,https://www.banglapuzzle.com/login/,336,0,0
+1672383317442,2179,LoginPage-2,200,OK,User 1-14,text,true,,25815,127,76,76,https://www.banglapuzzle.com/login,1105,0,0
+1672383314115,5626,LoginPage,200,OK,User 1-52,text,true,,27738,383,75,75,https://www.banglapuzzle.com/login,721,0,375
+1672383314115,721,LoginPage-0,301,Moved Permanently,User 1-52,text,true,,953,128,75,75,http://www.banglapuzzle.com/login/,721,0,375
+1672383314836,3300,LoginPage-1,301,Moved Permanently,User 1-52,text,true,,970,128,75,75,https://www.banglapuzzle.com/login/,3300,0,801
+1672383318136,1605,LoginPage-2,200,OK,User 1-52,text,true,,25815,127,75,75,https://www.banglapuzzle.com/login,1249,0,0
+1672383313978,5765,HomePage,200,OK,User 1-48,text,true,,65503,244,75,75,https://www.banglapuzzle.com/,377,0,0
+1672383313978,377,HomePage-0,301,Moved Permanently,User 1-48,text,true,,947,122,75,75,http://www.banglapuzzle.com/,377,0,0
+1672383314355,5388,HomePage-1,200,OK,User 1-48,text,true,,64556,122,75,75,https://www.banglapuzzle.com/,3040,0,0
+1672383315721,4120,HomePage,200,OK,User 1-4,text,true,,65503,244,75,75,https://www.banglapuzzle.com/,375,0,0
+1672383315721,375,HomePage-0,301,Moved Permanently,User 1-4,text,true,,947,122,75,75,http://www.banglapuzzle.com/,375,0,0
+1672383316096,3745,HomePage-1,200,OK,User 1-4,text,true,,64556,122,75,75,https://www.banglapuzzle.com/,1567,0,765
+1672383312646,7200,HomePage,200,OK,User 1-68,text,true,,65503,244,75,75,https://www.banglapuzzle.com/,413,0,0
+1672383312646,414,HomePage-0,301,Moved Permanently,User 1-68,text,true,,947,122,75,75,http://www.banglapuzzle.com/,413,0,0
+1672383313060,6786,HomePage-1,200,OK,User 1-68,text,true,,64556,122,75,75,https://www.banglapuzzle.com/,1627,0,0
+1672383311292,8615,HomePage,200,OK,User 1-66,text,true,,65503,244,75,75,https://www.banglapuzzle.com/,351,0,0
+1672383311292,351,HomePage-0,301,Moved Permanently,User 1-66,text,true,,947,122,75,75,http://www.banglapuzzle.com/,351,0,0
+1672383311643,8264,HomePage-1,200,OK,User 1-66,text,true,,64556,122,75,75,https://www.banglapuzzle.com/,2049,0,0
+1672383315944,4038,HomePage,200,OK,User 1-78,text,true,,65503,244,75,75,https://www.banglapuzzle.com/,438,0,0
+1672383315944,438,HomePage-0,301,Moved Permanently,User 1-78,text,true,,947,122,75,75,http://www.banglapuzzle.com/,438,0,0
+1672383316382,3600,HomePage-1,200,OK,User 1-78,text,true,,64556,122,75,75,https://www.banglapuzzle.com/,1737,0,0
+1672383316478,3657,LoginPage,200,OK,User 1-24,text,true,,27738,383,75,75,https://www.banglapuzzle.com/login,1740,0,1354
+1672383316478,1740,LoginPage-0,301,Moved Permanently,User 1-24,text,true,,953,128,75,75,http://www.banglapuzzle.com/login/,1740,0,1354
+1672383318218,402,LoginPage-1,301,Moved Permanently,User 1-24,text,true,,970,128,75,75,https://www.banglapuzzle.com/login/,402,0,0
+1672383318621,1515,LoginPage-2,200,OK,User 1-24,text,true,,25815,127,75,75,https://www.banglapuzzle.com/login,1146,0,0
+1672383310562,9637,HomePage,200,OK,User 1-29,text,true,,65503,244,74,74,https://www.banglapuzzle.com/,343,0,0
+1672383310562,343,HomePage-0,301,Moved Permanently,User 1-29,text,true,,947,122,74,74,http://www.banglapuzzle.com/,343,0,0
+1672383310905,9294,HomePage-1,200,OK,User 1-29,text,true,,64556,122,74,74,https://www.banglapuzzle.com/,1915,0,0
+1672383315848,4386,LoginPage,200,OK,User 1-33,text,true,,27738,383,74,74,https://www.banglapuzzle.com/login,735,0,360
+1672383315848,735,LoginPage-0,301,Moved Permanently,User 1-33,text,true,,953,128,74,74,http://www.banglapuzzle.com/login/,735,0,360
+1672383316583,377,LoginPage-1,301,Moved Permanently,User 1-33,text,true,,970,128,74,74,https://www.banglapuzzle.com/login/,377,0,0
+1672383316961,3273,LoginPage-2,200,OK,User 1-33,text,true,,25815,127,74,74,https://www.banglapuzzle.com/login,2901,0,0
+1672383317685,2568,LoginPage,200,OK,User 1-59,text,true,,27738,383,73,73,https://www.banglapuzzle.com/login,362,0,0
+1672383317685,362,LoginPage-0,301,Moved Permanently,User 1-59,text,true,,953,128,73,73,http://www.banglapuzzle.com/login/,362,0,0
+1672383318047,372,LoginPage-1,301,Moved Permanently,User 1-59,text,true,,970,128,73,73,https://www.banglapuzzle.com/login/,372,0,0
+1672383318420,1834,LoginPage-2,200,OK,User 1-59,text,true,,25815,127,73,73,https://www.banglapuzzle.com/login,1173,0,0
+1672383309497,10796,HomePage,200,OK,User 1-85,text,true,,65503,244,72,72,https://www.banglapuzzle.com/,292,0,0
+1672383309497,292,HomePage-0,301,Moved Permanently,User 1-85,text,true,,947,122,72,72,http://www.banglapuzzle.com/,292,0,0
+1672383309790,10503,HomePage-1,200,OK,User 1-85,text,true,,64556,122,72,72,https://www.banglapuzzle.com/,2781,0,0
+1672383313653,6735,HomePage,200,OK,User 1-99,text,true,,65503,244,72,72,https://www.banglapuzzle.com/,402,0,0
+1672383313653,402,HomePage-0,301,Moved Permanently,User 1-99,text,true,,947,122,72,72,http://www.banglapuzzle.com/,402,0,0
+1672383314055,6333,HomePage-1,200,OK,User 1-99,text,true,,64556,122,72,72,https://www.banglapuzzle.com/,2267,0,1432
+1672383315771,4746,LoginPage,200,OK,User 1-23,text,true,,27738,383,72,72,https://www.banglapuzzle.com/login,2016,0,398
+1672383315771,2016,LoginPage-0,301,Moved Permanently,User 1-23,text,true,,953,128,72,72,http://www.banglapuzzle.com/login/,2016,0,398
+1672383317787,378,LoginPage-1,301,Moved Permanently,User 1-23,text,true,,970,128,72,72,https://www.banglapuzzle.com/login/,378,0,0
+1672383318165,2352,LoginPage-2,200,OK,User 1-23,text,true,,25815,127,72,72,https://www.banglapuzzle.com/login,1920,0,0
+1672383311369,9214,HomePage,200,OK,User 1-26,text,true,,65503,244,71,71,https://www.banglapuzzle.com/,403,0,0
+1672383311369,403,HomePage-0,301,Moved Permanently,User 1-26,text,true,,947,122,71,71,http://www.banglapuzzle.com/,403,0,0
+1672383311772,8811,HomePage-1,200,OK,User 1-26,text,true,,64556,122,71,71,https://www.banglapuzzle.com/,2198,0,0
+1672383316048,4602,LoginPage,200,OK,User 1-55,text,true,,27738,383,71,71,https://www.banglapuzzle.com/login,855,0,425
+1672383317805,2846,LoginPage,200,OK,User 1-92,text,true,,27738,383,71,71,https://www.banglapuzzle.com/login,712,0,361
+1672383316048,855,LoginPage-0,301,Moved Permanently,User 1-55,text,true,,953,128,71,71,http://www.banglapuzzle.com/login/,855,0,425
+1672383317805,712,LoginPage-0,301,Moved Permanently,User 1-92,text,true,,953,128,71,71,http://www.banglapuzzle.com/login/,712,0,361
+1672383316903,370,LoginPage-1,301,Moved Permanently,User 1-55,text,true,,970,128,71,71,https://www.banglapuzzle.com/login/,370,0,0
+1672383318518,374,LoginPage-1,301,Moved Permanently,User 1-92,text,true,,970,128,71,71,https://www.banglapuzzle.com/login/,374,0,0
+1672383317273,3377,LoginPage-2,200,OK,User 1-55,text,true,,25815,127,71,71,https://www.banglapuzzle.com/login,2684,0,0
+1672383318892,1759,LoginPage-2,200,OK,User 1-92,text,true,,25815,127,71,71,https://www.banglapuzzle.com/login,1414,0,0
+1672383316784,3895,LoginPage,200,OK,User 1-88,text,true,,27738,383,69,69,https://www.banglapuzzle.com/login,711,0,364
+1672383316784,711,LoginPage-0,301,Moved Permanently,User 1-88,text,true,,953,128,69,69,http://www.banglapuzzle.com/login/,711,0,364
+1672383317495,401,LoginPage-1,301,Moved Permanently,User 1-88,text,true,,970,128,69,69,https://www.banglapuzzle.com/login/,401,0,0
+1672383317896,2783,LoginPage-2,200,OK,User 1-88,text,true,,25815,127,69,69,https://www.banglapuzzle.com/login,2013,0,0
+1672383313028,7653,HomePage,200,OK,User 1-60,text,true,,65503,244,68,68,https://www.banglapuzzle.com/,837,0,412
+1672383313028,837,HomePage-0,301,Moved Permanently,User 1-60,text,true,,947,122,68,68,http://www.banglapuzzle.com/,837,0,412
+1672383313864,6817,HomePage-1,200,OK,User 1-60,text,true,,64556,122,68,68,https://www.banglapuzzle.com/,4077,0,0
+1672383313127,7588,HomePage,200,OK,User 1-100,text,true,,65503,244,68,68,https://www.banglapuzzle.com/,402,0,0
+1672383313127,402,HomePage-0,301,Moved Permanently,User 1-100,text,true,,947,122,68,68,http://www.banglapuzzle.com/,402,0,0
+1672383313528,7187,HomePage-1,200,OK,User 1-100,text,true,,64556,122,68,68,https://www.banglapuzzle.com/,4637,0,0
+1672383315257,5499,LoginPage,200,OK,User 1-41,text,true,,27738,383,68,68,https://www.banglapuzzle.com/login,804,0,407
+1672383315257,804,LoginPage-0,301,Moved Permanently,User 1-41,text,true,,953,128,68,68,http://www.banglapuzzle.com/login/,804,0,407
+1672383316061,377,LoginPage-1,301,Moved Permanently,User 1-41,text,true,,970,128,68,68,https://www.banglapuzzle.com/login/,377,0,0
+1672383316438,4318,LoginPage-2,200,OK,User 1-41,text,true,,25815,127,68,68,https://www.banglapuzzle.com/login,3650,0,0
+1672383313035,7721,HomePage,200,OK,User 1-65,text,true,,65503,244,68,68,https://www.banglapuzzle.com/,423,0,0
+1672383313035,423,HomePage-0,301,Moved Permanently,User 1-65,text,true,,947,122,68,68,http://www.banglapuzzle.com/,423,0,0
+1672383313458,7298,HomePage-1,200,OK,User 1-65,text,true,,64556,122,68,68,https://www.banglapuzzle.com/,2773,0,800
+1672383314433,6344,HomePage,200,OK,User 1-87,text,true,,65503,244,67,67,https://www.banglapuzzle.com/,358,0,0
+1672383314433,358,HomePage-0,301,Moved Permanently,User 1-87,text,true,,947,122,67,67,http://www.banglapuzzle.com/,358,0,0
+1672383314791,5986,HomePage-1,200,OK,User 1-87,text,true,,64556,122,67,67,https://www.banglapuzzle.com/,2481,0,0
+1672383317796,2985,LoginPage,200,OK,User 1-47,text,true,,27738,383,67,67,https://www.banglapuzzle.com/login,731,0,370
+1672383317796,731,LoginPage-0,301,Moved Permanently,User 1-47,text,true,,953,128,67,67,http://www.banglapuzzle.com/login/,731,0,370
+1672383318528,393,LoginPage-1,301,Moved Permanently,User 1-47,text,true,,970,128,67,67,https://www.banglapuzzle.com/login/,393,0,0
+1672383318921,1860,LoginPage-2,200,OK,User 1-47,text,true,,25815,127,67,67,https://www.banglapuzzle.com/login,1165,0,0
+1672383313536,7245,LoginPage,200,OK,User 1-94,text,true,,27738,383,66,66,https://www.banglapuzzle.com/login,747,0,378
+1672383313536,747,LoginPage-0,301,Moved Permanently,User 1-94,text,true,,953,128,66,66,http://www.banglapuzzle.com/login/,747,0,378
+1672383314283,2990,LoginPage-1,301,Moved Permanently,User 1-94,text,true,,970,128,66,66,https://www.banglapuzzle.com/login/,2990,0,2616
+1672383317273,3508,LoginPage-2,200,OK,User 1-94,text,true,,25815,127,66,66,https://www.banglapuzzle.com/login,1968,0,0
+1672383313661,7135,HomePage,200,OK,User 1-67,text,true,,65503,244,66,66,https://www.banglapuzzle.com/,2465,0,0
+1672383313661,2465,HomePage-0,301,Moved Permanently,User 1-67,text,true,,947,122,66,66,http://www.banglapuzzle.com/,2465,0,0
+1672383316127,4669,HomePage-1,200,OK,User 1-67,text,true,,64556,122,66,66,https://www.banglapuzzle.com/,2502,0,1719
+1672383314427,6409,LoginPage,200,OK,User 1-75,text,true,,27738,383,66,66,https://www.banglapuzzle.com/login,745,0,362
+1672383314427,745,LoginPage-0,301,Moved Permanently,User 1-75,text,true,,953,128,66,66,http://www.banglapuzzle.com/login/,745,0,362
+1672383315172,4082,LoginPage-1,301,Moved Permanently,User 1-75,text,true,,970,128,66,66,https://www.banglapuzzle.com/login/,4082,0,3310
+1672383319256,1581,LoginPage-2,200,OK,User 1-75,text,true,,25815,127,66,66,https://www.banglapuzzle.com/login,1179,0,0
+1672383318254,2673,HomePage,200,OK,User 1-72,text,true,,65503,244,66,66,https://www.banglapuzzle.com/,375,0,0
+1672383318254,375,HomePage-0,301,Moved Permanently,User 1-72,text,true,,947,122,66,66,http://www.banglapuzzle.com/,375,0,0
+1672383318630,2297,HomePage-1,200,OK,User 1-72,text,true,,64556,122,66,66,https://www.banglapuzzle.com/,822,0,0
+1672383315471,5494,LoginPage,200,OK,User 1-25,text,true,,27738,383,66,66,https://www.banglapuzzle.com/login,867,0,441
+1672383315471,867,LoginPage-0,301,Moved Permanently,User 1-25,text,true,,953,128,66,66,http://www.banglapuzzle.com/login/,867,0,441
+1672383316338,370,LoginPage-1,301,Moved Permanently,User 1-25,text,true,,970,128,66,66,https://www.banglapuzzle.com/login/,370,0,0
+1672383316708,4257,LoginPage-2,200,OK,User 1-25,text,true,,25815,127,66,66,https://www.banglapuzzle.com/login,3058,0,0
+1672383314186,6882,LoginPage,200,OK,User 1-38,text,true,,27738,383,65,65,https://www.banglapuzzle.com/login,700,0,355
+1672383314186,700,LoginPage-0,301,Moved Permanently,User 1-38,text,true,,953,128,65,65,http://www.banglapuzzle.com/login/,700,0,355
+1672383314886,3742,LoginPage-1,301,Moved Permanently,User 1-38,text,true,,970,128,65,65,https://www.banglapuzzle.com/login/,3742,0,2912
+1672383318630,2439,LoginPage-2,200,OK,User 1-38,text,true,,25815,127,65,65,https://www.banglapuzzle.com/login,1690,0,0
+1672383315260,5846,LoginPage,200,OK,User 1-79,text,true,,27738,383,65,65,https://www.banglapuzzle.com/login,2064,0,368
+1672383315260,2064,LoginPage-0,301,Moved Permanently,User 1-79,text,true,,953,128,65,65,http://www.banglapuzzle.com/login/,2064,0,368
+1672383317324,370,LoginPage-1,301,Moved Permanently,User 1-79,text,true,,970,128,65,65,https://www.banglapuzzle.com/login/,369,0,0
+1672383317694,3412,LoginPage-2,200,OK,User 1-79,text,true,,25815,127,65,65,https://www.banglapuzzle.com/login,2596,0,0
+1672383319167,1945,LoginPage,200,OK,User 1-77,text,true,,27738,383,64,64,https://www.banglapuzzle.com/login,381,0,0
+1672383319167,381,LoginPage-0,301,Moved Permanently,User 1-77,text,true,,953,128,64,64,http://www.banglapuzzle.com/login/,381,0,0
+1672383319548,373,LoginPage-1,301,Moved Permanently,User 1-77,text,true,,970,128,64,64,https://www.banglapuzzle.com/login/,373,0,0
+1672383319922,1190,LoginPage-2,200,OK,User 1-77,text,true,,25815,127,64,64,https://www.banglapuzzle.com/login,836,0,0
+1672383314160,6973,HomePage,200,OK,User 1-62,text,true,,65503,244,63,63,https://www.banglapuzzle.com/,342,0,0
+1672383314160,342,HomePage-0,301,Moved Permanently,User 1-62,text,true,,947,122,63,63,http://www.banglapuzzle.com/,342,0,0
+1672383314502,6631,HomePage-1,200,OK,User 1-62,text,true,,64556,122,63,63,https://www.banglapuzzle.com/,1668,0,0
+1672383317959,3213,LoginPage,200,OK,User 1-81,text,true,,27738,383,63,63,https://www.banglapuzzle.com/login,766,0,395
+1672383317959,766,LoginPage-0,301,Moved Permanently,User 1-81,text,true,,953,128,63,63,http://www.banglapuzzle.com/login/,766,0,395
+1672383318726,357,LoginPage-1,301,Moved Permanently,User 1-81,text,true,,970,128,63,63,https://www.banglapuzzle.com/login/,357,0,0
+1672383319083,2089,LoginPage-2,200,OK,User 1-81,text,true,,25815,127,63,63,https://www.banglapuzzle.com/login,1117,0,0
+1672383313331,7923,HomePage,200,OK,User 1-61,text,true,,65503,244,62,62,https://www.banglapuzzle.com/,404,0,0
+1672383313331,404,HomePage-0,301,Moved Permanently,User 1-61,text,true,,947,122,62,62,http://www.banglapuzzle.com/,404,0,0
+1672383313735,7519,HomePage-1,200,OK,User 1-61,text,true,,64556,122,62,62,https://www.banglapuzzle.com/,1686,0,0
+1672383312921,8422,HomePage,200,OK,User 1-58,text,true,,65503,244,62,62,https://www.banglapuzzle.com/,813,0,409
+1672383312921,813,HomePage-0,301,Moved Permanently,User 1-58,text,true,,947,122,62,62,http://www.banglapuzzle.com/,813,0,409
+1672383313733,7610,HomePage-1,200,OK,User 1-58,text,true,,64556,122,62,62,https://www.banglapuzzle.com/,2589,0,0
+1672383313114,8256,HomePage,200,OK,User 1-45,text,true,,65503,244,62,62,https://www.banglapuzzle.com/,348,0,0
+1672383313114,348,HomePage-0,301,Moved Permanently,User 1-45,text,true,,947,122,62,62,http://www.banglapuzzle.com/,348,0,0
+1672383313461,7909,HomePage-1,200,OK,User 1-45,text,true,,64556,122,62,62,https://www.banglapuzzle.com/,3028,0,0
+1672383318739,2786,LoginPage,200,OK,User 1-49,text,true,,27738,383,62,62,https://www.banglapuzzle.com/login,762,0,376
+1672383318739,762,LoginPage-0,301,Moved Permanently,User 1-49,text,true,,953,128,62,62,http://www.banglapuzzle.com/login/,762,0,376
+1672383319501,370,LoginPage-1,301,Moved Permanently,User 1-49,text,true,,970,128,62,62,https://www.banglapuzzle.com/login/,370,0,0
+1672383319872,1653,LoginPage-2,200,OK,User 1-49,text,true,,25815,127,62,62,https://www.banglapuzzle.com/login,1235,0,0
+1672383314634,6891,HomePage,200,OK,User 1-15,text,true,,65503,244,62,62,https://www.banglapuzzle.com/,410,0,0
+1672383314634,410,HomePage-0,301,Moved Permanently,User 1-15,text,true,,947,122,62,62,http://www.banglapuzzle.com/,410,0,0
+1672383315044,6481,HomePage-1,200,OK,User 1-15,text,true,,64556,122,62,62,https://www.banglapuzzle.com/,4034,0,870
+1672383317987,3540,LoginPage,200,OK,User 1-2,text,true,,27738,383,61,61,https://www.banglapuzzle.com/login,734,0,365
+1672383315489,6037,HomePage,200,OK,User 1-21,text,true,,65503,244,61,61,https://www.banglapuzzle.com/,738,0,376
+1672383317987,734,LoginPage-0,301,Moved Permanently,User 1-2,text,true,,953,128,61,61,http://www.banglapuzzle.com/login/,734,0,365
+1672383315489,738,HomePage-0,301,Moved Permanently,User 1-21,text,true,,947,122,61,61,http://www.banglapuzzle.com/,738,0,376
+1672383318722,404,LoginPage-1,301,Moved Permanently,User 1-2,text,true,,970,128,61,61,https://www.banglapuzzle.com/login/,404,0,0
+1672383316227,5299,HomePage-1,200,OK,User 1-21,text,true,,64556,122,61,61,https://www.banglapuzzle.com/,2011,0,0
+1672383319127,2400,LoginPage-2,200,OK,User 1-2,text,true,,25815,127,61,61,https://www.banglapuzzle.com/login,1685,0,0
+1672383315490,6043,HomePage,200,OK,User 1-95,text,true,,65503,244,61,61,https://www.banglapuzzle.com/,431,0,0
+1672383315490,431,HomePage-0,301,Moved Permanently,User 1-95,text,true,,947,122,61,61,http://www.banglapuzzle.com/,431,0,0
+1672383315921,5612,HomePage-1,200,OK,User 1-95,text,true,,64556,122,61,61,https://www.banglapuzzle.com/,2009,0,0
+1672383319984,1551,LoginPage,200,OK,User 1-78,text,true,,27738,383,61,61,https://www.banglapuzzle.com/login,383,0,0
+1672383319984,383,LoginPage-0,301,Moved Permanently,User 1-78,text,true,,953,128,61,61,http://www.banglapuzzle.com/login/,383,0,0
+1672383320367,391,LoginPage-1,301,Moved Permanently,User 1-78,text,true,,970,128,61,61,https://www.banglapuzzle.com/login/,391,0,0
+1672383320758,777,LoginPage-2,200,OK,User 1-78,text,true,,25815,127,61,61,https://www.banglapuzzle.com/login,770,0,0
+1672383319253,2327,LoginPage,200,OK,User 1-51,text,true,,27738,383,59,59,https://www.banglapuzzle.com/login,805,0,412
+1672383319253,805,LoginPage-0,301,Moved Permanently,User 1-51,text,true,,953,128,59,59,http://www.banglapuzzle.com/login/,805,0,412
+1672383320059,396,LoginPage-1,301,Moved Permanently,User 1-51,text,true,,970,128,59,59,https://www.banglapuzzle.com/login/,396,0,0
+1672383320455,1125,LoginPage-2,200,OK,User 1-51,text,true,,25815,127,59,59,https://www.banglapuzzle.com/login,782,0,0
+1672383317731,4069,LoginPage,200,OK,User 1-43,text,true,,27738,383,58,58,https://www.banglapuzzle.com/login,1771,0,1383
+1672383317731,1771,LoginPage-0,301,Moved Permanently,User 1-43,text,true,,953,128,58,58,http://www.banglapuzzle.com/login/,1771,0,1383
+1672383319503,351,LoginPage-1,301,Moved Permanently,User 1-43,text,true,,970,128,58,58,https://www.banglapuzzle.com/login/,351,0,0
+1672383319854,1946,LoginPage-2,200,OK,User 1-43,text,true,,25815,127,58,58,https://www.banglapuzzle.com/login,1592,0,0
+1672383314601,7204,HomePage,200,OK,User 1-40,text,true,,65503,244,57,57,https://www.banglapuzzle.com/,2471,0,0
+1672383314601,2471,HomePage-0,301,Moved Permanently,User 1-40,text,true,,947,122,57,57,http://www.banglapuzzle.com/,2471,0,0
+1672383317072,4733,HomePage-1,200,OK,User 1-40,text,true,,64556,122,57,57,https://www.banglapuzzle.com/,1149,0,0
+1672383315437,6421,HomePage,200,OK,User 1-90,text,true,,65503,244,57,57,https://www.banglapuzzle.com/,731,0,367
+1672383315437,731,HomePage-0,301,Moved Permanently,User 1-90,text,true,,947,122,57,57,http://www.banglapuzzle.com/,731,0,367
+1672383316169,5689,HomePage-1,200,OK,User 1-90,text,true,,64556,122,57,57,https://www.banglapuzzle.com/,2620,0,0
+1672383313186,8675,LoginPage,200,OK,User 1-20,text,true,,27738,383,57,57,https://www.banglapuzzle.com/login,832,0,403
+1672383313186,832,LoginPage-0,301,Moved Permanently,User 1-20,text,true,,953,128,57,57,http://www.banglapuzzle.com/login/,832,0,403
+1672383314017,1207,LoginPage-1,301,Moved Permanently,User 1-20,text,true,,970,128,57,57,https://www.banglapuzzle.com/login/,1207,0,770
+1672383315224,6637,LoginPage-2,200,OK,User 1-20,text,true,,25815,127,57,57,https://www.banglapuzzle.com/login,5950,0,0
+1672383319842,2028,LoginPage,200,OK,User 1-4,text,true,,27738,383,57,57,https://www.banglapuzzle.com/login,393,0,0
+1672383319842,393,LoginPage-0,301,Moved Permanently,User 1-4,text,true,,953,128,57,57,http://www.banglapuzzle.com/login/,393,0,0
+1672383320235,348,LoginPage-1,301,Moved Permanently,User 1-4,text,true,,970,128,57,57,https://www.banglapuzzle.com/login/,348,0,0
+1672383320583,1287,LoginPage-2,200,OK,User 1-4,text,true,,25815,127,57,57,https://www.banglapuzzle.com/login,997,0,0
+1672383318295,3584,LoginPage,200,OK,User 1-42,text,true,,27738,383,56,56,https://www.banglapuzzle.com/login,1706,0,1369
+1672383318295,1706,LoginPage-0,301,Moved Permanently,User 1-42,text,true,,953,128,56,56,http://www.banglapuzzle.com/login/,1706,0,1369
+1672383320002,397,LoginPage-1,301,Moved Permanently,User 1-42,text,true,,970,128,56,56,https://www.banglapuzzle.com/login/,397,0,0
+1672383320399,1480,LoginPage-2,200,OK,User 1-42,text,true,,25815,127,56,56,https://www.banglapuzzle.com/login,1136,0,0
+1672383319306,2612,LoginPage,200,OK,User 1-54,text,true,,27738,383,55,55,https://www.banglapuzzle.com/login,711,0,359
+1672383319306,711,LoginPage-0,301,Moved Permanently,User 1-54,text,true,,953,128,55,55,http://www.banglapuzzle.com/login/,711,0,359
+1672383320017,394,LoginPage-1,301,Moved Permanently,User 1-54,text,true,,970,128,55,55,https://www.banglapuzzle.com/login/,394,0,0
+1672383320411,1507,LoginPage-2,200,OK,User 1-54,text,true,,25815,127,55,55,https://www.banglapuzzle.com/login,1169,0,0
+1672383319557,2366,LoginPage,200,OK,User 1-8,text,true,,27738,383,54,54,https://www.banglapuzzle.com/login,389,0,0
+1672383319557,389,LoginPage-0,301,Moved Permanently,User 1-8,text,true,,953,128,54,54,http://www.banglapuzzle.com/login/,389,0,0
+1672383319946,329,LoginPage-1,301,Moved Permanently,User 1-8,text,true,,970,128,54,54,https://www.banglapuzzle.com/login/,329,0,0
+1672383320275,1648,LoginPage-2,200,OK,User 1-8,text,true,,25815,127,54,54,https://www.banglapuzzle.com/login,1086,0,0
+1672383318935,3097,LoginPage,200,OK,User 1-11,text,true,,27738,383,53,53,https://www.banglapuzzle.com/login,780,0,391
+1672383318935,780,LoginPage-0,301,Moved Permanently,User 1-11,text,true,,953,128,53,53,http://www.banglapuzzle.com/login/,780,0,391
+1672383319715,374,LoginPage-1,301,Moved Permanently,User 1-11,text,true,,970,128,53,53,https://www.banglapuzzle.com/login/,374,0,0
+1672383320089,1943,LoginPage-2,200,OK,User 1-11,text,true,,25815,127,53,53,https://www.banglapuzzle.com/login,1568,0,0
+1672383314500,7536,LoginPage,200,OK,User 1-93,text,true,,27738,383,52,52,https://www.banglapuzzle.com/login,810,0,386
+1672383314500,810,LoginPage-0,301,Moved Permanently,User 1-93,text,true,,953,128,52,52,http://www.banglapuzzle.com/login/,810,0,386
+1672383315310,5761,LoginPage-1,301,Moved Permanently,User 1-93,text,true,,970,128,52,52,https://www.banglapuzzle.com/login/,5761,0,5398
+1672383321073,964,LoginPage-2,200,OK,User 1-93,text,true,,25815,127,52,52,https://www.banglapuzzle.com/login,717,0,0
+1672383319907,2136,LoginPage,200,OK,User 1-66,text,true,,27738,383,52,52,https://www.banglapuzzle.com/login,773,0,368
+1672383319907,773,LoginPage-0,301,Moved Permanently,User 1-66,text,true,,953,128,52,52,http://www.banglapuzzle.com/login/,773,0,368
+1672383320680,390,LoginPage-1,301,Moved Permanently,User 1-66,text,true,,970,128,52,52,https://www.banglapuzzle.com/login/,390,0,0
+1672383321070,973,LoginPage-2,200,OK,User 1-66,text,true,,25815,127,52,52,https://www.banglapuzzle.com/login,692,0,0
+1672383319025,3069,LoginPage,200,OK,User 1-39,text,true,,27738,383,51,51,https://www.banglapuzzle.com/login,782,0,396
+1672383319025,782,LoginPage-0,301,Moved Permanently,User 1-39,text,true,,953,128,51,51,http://www.banglapuzzle.com/login/,782,0,396
+1672383319807,393,LoginPage-1,301,Moved Permanently,User 1-39,text,true,,970,128,51,51,https://www.banglapuzzle.com/login/,393,0,0
+1672383320200,1894,LoginPage-2,200,OK,User 1-39,text,true,,25815,127,51,51,https://www.banglapuzzle.com/login,1143,0,0
+1672383319078,3016,LoginPage,200,OK,User 1-50,text,true,,27738,383,51,51,https://www.banglapuzzle.com/login,706,0,362
+1672383319078,706,LoginPage-0,301,Moved Permanently,User 1-50,text,true,,953,128,51,51,http://www.banglapuzzle.com/login/,706,0,362
+1672383319784,401,LoginPage-1,301,Moved Permanently,User 1-50,text,true,,970,128,51,51,https://www.banglapuzzle.com/login/,400,0,0
+1672383320185,1909,LoginPage-2,200,OK,User 1-50,text,true,,25815,127,51,51,https://www.banglapuzzle.com/login,1520,0,0
+1672383312903,9263,HomePage,200,OK,User 1-37,text,true,,65503,244,49,49,https://www.banglapuzzle.com/,833,0,415
+1672383312903,833,HomePage-0,301,Moved Permanently,User 1-37,text,true,,947,122,49,49,http://www.banglapuzzle.com/,833,0,415
+1672383313735,8431,HomePage-1,200,OK,User 1-37,text,true,,64556,122,49,49,https://www.banglapuzzle.com/,2858,0,0
+1672383319569,2617,LoginPage,200,OK,User 1-35,text,true,,27738,383,49,49,https://www.banglapuzzle.com/login,668,0,338
+1672383319569,668,LoginPage-0,301,Moved Permanently,User 1-35,text,true,,953,128,49,49,http://www.banglapuzzle.com/login/,668,0,338
+1672383320237,349,LoginPage-1,301,Moved Permanently,User 1-35,text,true,,970,128,49,49,https://www.banglapuzzle.com/login/,349,0,0
+1672383320586,1600,LoginPage-2,200,OK,User 1-35,text,true,,25815,127,49,49,https://www.banglapuzzle.com/login,1027,0,0
+1672383313188,9005,HomePage,200,OK,User 1-1,text,true,,65503,244,48,48,https://www.banglapuzzle.com/,405,0,0
+1672383313188,405,HomePage-0,301,Moved Permanently,User 1-1,text,true,,947,122,48,48,http://www.banglapuzzle.com/,405,0,0
+1672383313592,8601,HomePage-1,200,OK,User 1-1,text,true,,64556,122,48,48,https://www.banglapuzzle.com/,2912,0,0
+1672383314822,7404,HomePage,200,OK,User 1-64,text,true,,65503,244,48,48,https://www.banglapuzzle.com/,403,0,0
+1672383314822,403,HomePage-0,301,Moved Permanently,User 1-64,text,true,,947,122,48,48,http://www.banglapuzzle.com/,403,0,0
+1672383315225,7001,HomePage-1,200,OK,User 1-64,text,true,,64556,122,48,48,https://www.banglapuzzle.com/,3526,0,0
+1672383319030,3290,LoginPage,200,OK,User 1-76,text,true,,27738,383,48,48,https://www.banglapuzzle.com/login,732,0,373
+1672383319030,732,LoginPage-0,301,Moved Permanently,User 1-76,text,true,,953,128,48,48,http://www.banglapuzzle.com/login/,732,0,373
+1672383319762,391,LoginPage-1,301,Moved Permanently,User 1-76,text,true,,970,128,48,48,https://www.banglapuzzle.com/login/,391,0,0
+1672383320153,2167,LoginPage-2,200,OK,User 1-76,text,true,,25815,127,48,48,https://www.banglapuzzle.com/login,1612,0,0
+1672383319441,2971,LoginPage,200,OK,User 1-7,text,true,,27738,383,47,47,https://www.banglapuzzle.com/login,733,0,359
+1672383319441,733,LoginPage-0,301,Moved Permanently,User 1-7,text,true,,953,128,47,47,http://www.banglapuzzle.com/login/,733,0,359
+1672383320174,360,LoginPage-1,301,Moved Permanently,User 1-7,text,true,,970,128,47,47,https://www.banglapuzzle.com/login/,360,0,0
+1672383320534,1878,LoginPage-2,200,OK,User 1-7,text,true,,25815,127,47,47,https://www.banglapuzzle.com/login,1451,0,0
+1672383320716,1744,LoginPage,200,OK,User 1-100,text,true,,27738,383,46,46,https://www.banglapuzzle.com/login,656,0,356
+1672383320682,1778,LoginPage,200,OK,User 1-60,text,true,,27738,383,46,46,https://www.banglapuzzle.com/login,702,0,389
+1672383320716,656,LoginPage-0,301,Moved Permanently,User 1-100,text,true,,953,128,46,46,http://www.banglapuzzle.com/login/,656,0,356
+1672383320682,702,LoginPage-0,301,Moved Permanently,User 1-60,text,true,,953,128,46,46,http://www.banglapuzzle.com/login/,702,0,389
+1672383321372,325,LoginPage-1,301,Moved Permanently,User 1-100,text,true,,970,128,46,46,https://www.banglapuzzle.com/login/,325,0,0
+1672383321697,763,LoginPage-2,200,OK,User 1-100,text,true,,25815,127,46,46,https://www.banglapuzzle.com/login,690,0,0
+1672383321384,332,LoginPage-1,301,Moved Permanently,User 1-60,text,true,,970,128,46,46,https://www.banglapuzzle.com/login/,332,0,0
+1672383321716,744,LoginPage-2,200,OK,User 1-60,text,true,,25815,127,46,46,https://www.banglapuzzle.com/login,744,0,0
+1672383320201,2310,LoginPage,200,OK,User 1-29,text,true,,27738,383,44,44,https://www.banglapuzzle.com/login,730,0,381
+1672383320201,730,LoginPage-0,301,Moved Permanently,User 1-29,text,true,,953,128,44,44,http://www.banglapuzzle.com/login/,730,0,381
+1672383320931,323,LoginPage-1,301,Moved Permanently,User 1-29,text,true,,970,128,44,44,https://www.banglapuzzle.com/login/,323,0,0
+1672383321254,1257,LoginPage-2,200,OK,User 1-29,text,true,,25815,127,44,44,https://www.banglapuzzle.com/login,973,0,0
+1672383319846,2669,LoginPage,200,OK,User 1-68,text,true,,27738,383,43,43,https://www.banglapuzzle.com/login,770,0,389
+1672383319846,770,LoginPage-0,301,Moved Permanently,User 1-68,text,true,,953,128,43,43,http://www.banglapuzzle.com/login/,770,0,389
+1672383320616,333,LoginPage-1,301,Moved Permanently,User 1-68,text,true,,970,128,43,43,https://www.banglapuzzle.com/login/,333,0,0
+1672383320949,1566,LoginPage-2,200,OK,User 1-68,text,true,,25815,127,43,43,https://www.banglapuzzle.com/login,1265,0,0
+1672383320928,1626,LoginPage,200,OK,User 1-72,text,true,,27738,383,42,42,https://www.banglapuzzle.com/login,351,0,0
+1672383320928,351,LoginPage-0,301,Moved Permanently,User 1-72,text,true,,953,128,42,42,http://www.banglapuzzle.com/login/,351,0,0
+1672383321279,313,LoginPage-1,301,Moved Permanently,User 1-72,text,true,,970,128,42,42,https://www.banglapuzzle.com/login/,313,0,0
+1672383321592,962,LoginPage-2,200,OK,User 1-72,text,true,,25815,127,42,42,https://www.banglapuzzle.com/login,681,0,0
+1672383316962,5749,LoginPage,200,OK,User 1-53,text,true,,27738,383,41,41,https://www.banglapuzzle.com/login,825,0,411
+1672383316962,825,LoginPage-0,301,Moved Permanently,User 1-53,text,true,,953,128,41,41,http://www.banglapuzzle.com/login/,825,0,411
+1672383317787,3440,LoginPage-1,301,Moved Permanently,User 1-53,text,true,,970,128,41,41,https://www.banglapuzzle.com/login/,3440,0,2694
+1672383321228,1484,LoginPage-2,200,OK,User 1-53,text,true,,25815,127,41,41,https://www.banglapuzzle.com/login,1139,0,0
+1672383320797,1983,LoginPage,200,OK,User 1-67,text,true,,27738,383,41,41,https://www.banglapuzzle.com/login,371,0,0
+1672383320797,371,LoginPage-0,301,Moved Permanently,User 1-67,text,true,,953,128,41,41,http://www.banglapuzzle.com/login/,371,0,0
+1672383321168,365,LoginPage-1,301,Moved Permanently,User 1-67,text,true,,970,128,41,41,https://www.banglapuzzle.com/login/,365,0,0
+1672383321533,1247,LoginPage-2,200,OK,User 1-67,text,true,,25815,127,41,41,https://www.banglapuzzle.com/login,964,0,0
+1672383320390,2500,LoginPage,200,OK,User 1-99,text,true,,27738,383,40,40,https://www.banglapuzzle.com/login,718,0,368
+1672383320390,718,LoginPage-0,301,Moved Permanently,User 1-99,text,true,,953,128,40,40,http://www.banglapuzzle.com/login/,718,0,368
+1672383321109,280,LoginPage-1,301,Moved Permanently,User 1-99,text,true,,970,128,40,40,https://www.banglapuzzle.com/login/,280,0,0
+1672383321389,1501,LoginPage-2,200,OK,User 1-99,text,true,,25815,127,40,40,https://www.banglapuzzle.com/login,1230,0,0
+1672383320293,2675,LoginPage,200,OK,User 1-85,text,true,,27738,383,39,39,https://www.banglapuzzle.com/login,680,0,343
+1672383320293,680,LoginPage-0,301,Moved Permanently,User 1-85,text,true,,953,128,39,39,http://www.banglapuzzle.com/login/,680,0,343
+1672383320974,333,LoginPage-1,301,Moved Permanently,User 1-85,text,true,,970,128,39,39,https://www.banglapuzzle.com/login/,333,0,0
+1672383321307,1661,LoginPage-2,200,OK,User 1-85,text,true,,25815,127,39,39,https://www.banglapuzzle.com/login,1047,0,0
+1672383312809,10189,HomePage,200,OK,User 1-9,text,true,,65503,244,38,38,https://www.banglapuzzle.com/,352,0,0
+1672383312809,352,HomePage-0,301,Moved Permanently,User 1-9,text,true,,947,122,38,38,http://www.banglapuzzle.com/,352,0,0
+1672383313161,9837,HomePage-1,200,OK,User 1-9,text,true,,64556,122,38,38,https://www.banglapuzzle.com/,5786,0,3044
+1672383319744,3321,LoginPage,200,OK,User 1-48,text,true,,27738,383,38,38,https://www.banglapuzzle.com/login,1946,0,392
+1672383319744,1946,LoginPage-0,301,Moved Permanently,User 1-48,text,true,,953,128,38,38,http://www.banglapuzzle.com/login/,1946,0,392
+1672383321690,356,LoginPage-1,301,Moved Permanently,User 1-48,text,true,,970,128,38,38,https://www.banglapuzzle.com/login/,356,0,0
+1672383322046,1019,LoginPage-2,200,OK,User 1-48,text,true,,25815,127,38,38,https://www.banglapuzzle.com/login,708,0,0
+1672383318874,4423,HomePage,200,OK,User 1-86,text,true,,65503,244,37,37,https://www.banglapuzzle.com/,729,0,361
+1672383318874,729,HomePage-0,301,Moved Permanently,User 1-86,text,true,,947,122,37,37,http://www.banglapuzzle.com/,729,0,361
+1672383319603,3694,HomePage-1,200,OK,User 1-86,text,true,,64556,122,37,37,https://www.banglapuzzle.com/,1817,0,0
+1672383312913,10452,HomePage,200,OK,User 1-27,text,true,,65503,244,37,37,https://www.banglapuzzle.com/,336,0,0
+1672383312913,336,HomePage-0,301,Moved Permanently,User 1-27,text,true,,947,122,37,37,http://www.banglapuzzle.com/,336,0,0
+1672383313250,10115,HomePage-1,200,OK,User 1-27,text,true,,64556,122,37,37,https://www.banglapuzzle.com/,7248,0,3083
+1672383320778,2742,LoginPage,200,OK,User 1-87,text,true,,27738,383,37,37,https://www.banglapuzzle.com/login,612,0,330
+1672383320778,612,LoginPage-0,301,Moved Permanently,User 1-87,text,true,,953,128,37,37,http://www.banglapuzzle.com/login/,612,0,330
+1672383321390,383,LoginPage-1,301,Moved Permanently,User 1-87,text,true,,970,128,37,37,https://www.banglapuzzle.com/login/,383,0,0
+1672383321773,1747,LoginPage-2,200,OK,User 1-87,text,true,,25815,127,37,37,https://www.banglapuzzle.com/login,1091,0,0
+1672383321344,2190,LoginPage,200,OK,User 1-58,text,true,,27738,383,36,36,https://www.banglapuzzle.com/login,750,0,366
+1672383321344,750,LoginPage-0,301,Moved Permanently,User 1-58,text,true,,953,128,36,36,http://www.banglapuzzle.com/login/,750,0,366
+1672383322094,345,LoginPage-1,301,Moved Permanently,User 1-58,text,true,,970,128,36,36,https://www.banglapuzzle.com/login/,344,0,0
+1672383322439,1095,LoginPage-2,200,OK,User 1-58,text,true,,25815,127,36,36,https://www.banglapuzzle.com/login,769,0,0
+1672383321533,2138,LoginPage,200,OK,User 1-21,text,true,,27738,383,35,35,https://www.banglapuzzle.com/login,619,0,281
+1672383321533,619,LoginPage-0,301,Moved Permanently,User 1-21,text,true,,953,128,35,35,http://www.banglapuzzle.com/login/,619,0,281
+1672383322153,324,LoginPage-1,301,Moved Permanently,User 1-21,text,true,,970,128,35,35,https://www.banglapuzzle.com/login/,324,0,0
+1672383322477,1194,LoginPage-2,200,OK,User 1-21,text,true,,25815,127,35,35,https://www.banglapuzzle.com/login,821,0,0
+1672383321526,2161,LoginPage,200,OK,User 1-15,text,true,,27738,383,34,34,https://www.banglapuzzle.com/login,652,0,296
+1672383321526,652,LoginPage-0,301,Moved Permanently,User 1-15,text,true,,953,128,34,34,http://www.banglapuzzle.com/login/,652,0,296
+1672383322179,333,LoginPage-1,301,Moved Permanently,User 1-15,text,true,,970,128,34,34,https://www.banglapuzzle.com/login/,333,0,0
+1672383322512,1175,LoginPage-2,200,OK,User 1-15,text,true,,25815,127,34,34,https://www.banglapuzzle.com/login,789,0,0
+1672383321534,2156,LoginPage,200,OK,User 1-95,text,true,,27738,383,33,33,https://www.banglapuzzle.com/login,619,0,280
+1672383321534,619,LoginPage-0,301,Moved Permanently,User 1-95,text,true,,953,128,33,33,http://www.banglapuzzle.com/login/,619,0,280
+1672383322153,286,LoginPage-1,301,Moved Permanently,User 1-95,text,true,,970,128,33,33,https://www.banglapuzzle.com/login/,285,0,0
+1672383322439,1251,LoginPage-2,200,OK,User 1-95,text,true,,25815,127,33,33,https://www.banglapuzzle.com/login,952,0,0
+1672383321135,2556,LoginPage,200,OK,User 1-62,text,true,,27738,383,33,33,https://www.banglapuzzle.com/login,688,0,390
+1672383321135,688,LoginPage-0,301,Moved Permanently,User 1-62,text,true,,953,128,33,33,http://www.banglapuzzle.com/login/,688,0,390
+1672383321823,356,LoginPage-1,301,Moved Permanently,User 1-62,text,true,,970,128,33,33,https://www.banglapuzzle.com/login/,356,0,0
+1672383322179,1512,LoginPage-2,200,OK,User 1-62,text,true,,25815,127,33,33,https://www.banglapuzzle.com/login,952,0,0
+1672383321807,1930,LoginPage,200,OK,User 1-40,text,true,,27738,383,31,31,https://www.banglapuzzle.com/login,379,0,0
+1672383321371,2366,LoginPage,200,OK,User 1-45,text,true,,27738,383,31,31,https://www.banglapuzzle.com/login,605,0,317
+1672383321807,379,LoginPage-0,301,Moved Permanently,User 1-40,text,true,,953,128,31,31,http://www.banglapuzzle.com/login/,379,0,0
+1672383321371,605,LoginPage-0,301,Moved Permanently,User 1-45,text,true,,953,128,31,31,http://www.banglapuzzle.com/login/,605,0,317
+1672383322186,291,LoginPage-1,301,Moved Permanently,User 1-40,text,true,,970,128,31,31,https://www.banglapuzzle.com/login/,291,0,0
+1672383321976,298,LoginPage-1,301,Moved Permanently,User 1-45,text,true,,970,128,31,31,https://www.banglapuzzle.com/login/,298,0,0
+1672383322477,1260,LoginPage-2,200,OK,User 1-40,text,true,,25815,127,31,31,https://www.banglapuzzle.com/login,945,0,0
+1672383322274,1463,LoginPage-2,200,OK,User 1-45,text,true,,25815,127,31,31,https://www.banglapuzzle.com/login,870,0,0
+1672383321255,2493,LoginPage,200,OK,User 1-61,text,true,,27738,383,29,29,https://www.banglapuzzle.com/login,568,0,290
+1672383321255,568,LoginPage-0,301,Moved Permanently,User 1-61,text,true,,953,128,29,29,http://www.banglapuzzle.com/login/,568,0,290
+1672383321823,353,LoginPage-1,301,Moved Permanently,User 1-61,text,true,,970,128,29,29,https://www.banglapuzzle.com/login/,353,0,0
+1672383322176,1572,LoginPage-2,200,OK,User 1-61,text,true,,25815,127,29,29,https://www.banglapuzzle.com/login,1240,0,0
+1672383320583,3201,LoginPage,200,OK,User 1-26,text,true,,27738,383,28,28,https://www.banglapuzzle.com/login,728,0,382
+1672383320583,728,LoginPage-0,301,Moved Permanently,User 1-26,text,true,,953,128,28,28,http://www.banglapuzzle.com/login/,728,0,382
+1672383321311,358,LoginPage-1,301,Moved Permanently,User 1-26,text,true,,970,128,28,28,https://www.banglapuzzle.com/login/,358,0,0
+1672383321669,2115,LoginPage-2,200,OK,User 1-26,text,true,,25815,127,28,28,https://www.banglapuzzle.com/login,1433,0,0
+1672383310968,12996,HomePage,200,OK,User 1-63,text,true,,65503,244,27,27,https://www.banglapuzzle.com/,675,0,329
+1672383310968,675,HomePage-0,301,Moved Permanently,User 1-63,text,true,,947,122,27,27,http://www.banglapuzzle.com/,675,0,329
+1672383311643,12321,HomePage-1,200,OK,User 1-63,text,true,,64556,122,27,27,https://www.banglapuzzle.com/,4295,0,0
+1672383320758,3239,LoginPage,200,OK,User 1-65,text,true,,27738,383,27,27,https://www.banglapuzzle.com/login,768,0,354
+1672383320758,768,LoginPage-0,301,Moved Permanently,User 1-65,text,true,,953,128,27,27,http://www.banglapuzzle.com/login/,768,0,354
+1672383321526,333,LoginPage-1,301,Moved Permanently,User 1-65,text,true,,970,128,27,27,https://www.banglapuzzle.com/login/,333,0,0
+1672383321859,2138,LoginPage-2,200,OK,User 1-65,text,true,,25815,127,27,27,https://www.banglapuzzle.com/login,1510,0,0
+1672383322227,2003,LoginPage,200,OK,User 1-64,text,true,,27738,383,26,26,https://www.banglapuzzle.com/login,668,0,340
+1672383322227,668,LoginPage-0,301,Moved Permanently,User 1-64,text,true,,953,128,26,26,http://www.banglapuzzle.com/login/,668,0,340
+1672383322895,323,LoginPage-1,301,Moved Permanently,User 1-64,text,true,,970,128,26,26,https://www.banglapuzzle.com/login/,323,0,0
+1672383323218,1012,LoginPage-2,200,OK,User 1-64,text,true,,25815,127,26,26,https://www.banglapuzzle.com/login,700,0,0
+1672383314374,9921,HomePage,200,OK,User 1-57,text,true,,65503,244,25,25,https://www.banglapuzzle.com/,373,0,0
+1672383314374,373,HomePage-0,301,Moved Permanently,User 1-57,text,true,,947,122,25,25,http://www.banglapuzzle.com/,373,0,0
+1672383314747,9548,HomePage-1,200,OK,User 1-57,text,true,,64556,122,25,25,https://www.banglapuzzle.com/,7952,0,6787
+1672383321859,2464,LoginPage,200,OK,User 1-90,text,true,,27738,383,25,25,https://www.banglapuzzle.com/login,710,0,382
+1672383321859,710,LoginPage-0,301,Moved Permanently,User 1-90,text,true,,953,128,25,25,http://www.banglapuzzle.com/login/,710,0,382
+1672383322569,266,LoginPage-1,301,Moved Permanently,User 1-90,text,true,,970,128,25,25,https://www.banglapuzzle.com/login/,266,0,0
+1672383322835,1488,LoginPage-2,200,OK,User 1-90,text,true,,25815,127,25,25,https://www.banglapuzzle.com/login,902,0,0
+1672383316727,7694,HomePage,200,OK,User 1-89,text,true,,65503,244,24,24,https://www.banglapuzzle.com/,799,0,400
+1672383316727,799,HomePage-0,301,Moved Permanently,User 1-89,text,true,,947,122,24,24,http://www.banglapuzzle.com/,799,0,400
+1672383317526,6895,HomePage-1,200,OK,User 1-89,text,true,,64556,122,24,24,https://www.banglapuzzle.com/,4098,0,0
+1672383323298,1209,LoginPage,200,OK,User 1-86,text,true,,27738,383,24,24,https://www.banglapuzzle.com/login,301,0,0
+1672383323298,301,LoginPage-0,301,Moved Permanently,User 1-86,text,true,,953,128,24,24,http://www.banglapuzzle.com/login/,301,0,0
+1672383323599,271,LoginPage-1,301,Moved Permanently,User 1-86,text,true,,970,128,24,24,https://www.banglapuzzle.com/login/,271,0,0
+1672383323870,637,LoginPage-2,200,OK,User 1-86,text,true,,25815,127,24,24,https://www.banglapuzzle.com/login,637,0,0
+1672383322194,2315,LoginPage,200,OK,User 1-1,text,true,,27738,383,23,23,https://www.banglapuzzle.com/login,586,0,283
+1672383322194,586,LoginPage-0,301,Moved Permanently,User 1-1,text,true,,953,128,23,23,http://www.banglapuzzle.com/login/,586,0,283
+1672383322780,293,LoginPage-1,301,Moved Permanently,User 1-1,text,true,,970,128,23,23,https://www.banglapuzzle.com/login/,293,0,0
+1672383323073,1436,LoginPage-2,200,OK,User 1-1,text,true,,25815,127,23,23,https://www.banglapuzzle.com/login,927,0,0
+1672383322038,2545,HomePage,200,OK,User 1-93,text,true,,65503,244,22,22,https://www.banglapuzzle.com/,662,0,329
+1672383322038,662,HomePage-0,301,Moved Permanently,User 1-93,text,true,,947,122,22,22,http://www.banglapuzzle.com/,662,0,329
+1672383322700,1883,HomePage-1,200,OK,User 1-93,text,true,,64556,122,22,22,https://www.banglapuzzle.com/,646,0,0
+1672383322167,2493,LoginPage,200,OK,User 1-37,text,true,,27738,383,22,22,https://www.banglapuzzle.com/login,676,0,334
+1672383322167,676,LoginPage-0,301,Moved Permanently,User 1-37,text,true,,953,128,22,22,http://www.banglapuzzle.com/login/,676,0,334
+1672383322843,337,LoginPage-1,301,Moved Permanently,User 1-37,text,true,,970,128,22,22,https://www.banglapuzzle.com/login/,337,0,0
+1672383323180,1480,LoginPage-2,200,OK,User 1-37,text,true,,25815,127,22,22,https://www.banglapuzzle.com/login,1115,0,0
+1672383320837,3823,HomePage,200,OK,User 1-75,text,true,,65503,244,22,22,https://www.banglapuzzle.com/,615,0,296
+1672383320837,615,HomePage-0,301,Moved Permanently,User 1-75,text,true,,947,122,22,22,http://www.banglapuzzle.com/,615,0,296
+1672383321452,3208,HomePage-1,200,OK,User 1-75,text,true,,64556,122,22,22,https://www.banglapuzzle.com/,1121,0,0
+1672383319742,4944,HomePage,200,OK,User 1-52,text,true,,65503,244,21,21,https://www.banglapuzzle.com/,347,0,0
+1672383319742,347,HomePage-0,301,Moved Permanently,User 1-52,text,true,,947,122,21,21,http://www.banglapuzzle.com/,347,0,0
+1672383320089,4597,HomePage-1,200,OK,User 1-52,text,true,,64556,122,21,21,https://www.banglapuzzle.com/,2879,0,0
+1672383309497,15213,HomePage,200,OK,User 1-82,text,true,,65503,244,21,21,https://www.banglapuzzle.com/,273,0,0
+1672383309497,273,HomePage-0,301,Moved Permanently,User 1-82,text,true,,947,122,21,21,http://www.banglapuzzle.com/,273,0,0
+1672383309770,14940,HomePage-1,200,OK,User 1-82,text,true,,64556,122,21,21,https://www.banglapuzzle.com/,12326,0,0
+1672383321071,3765,HomePage,200,OK,User 1-38,text,true,,65503,244,21,21,https://www.banglapuzzle.com/,643,0,313
+1672383321071,643,HomePage-0,301,Moved Permanently,User 1-38,text,true,,947,122,21,21,http://www.banglapuzzle.com/,643,0,313
+1672383321715,3121,HomePage-1,200,OK,User 1-38,text,true,,64556,122,21,21,https://www.banglapuzzle.com/,1138,0,0
+1672383323365,1613,LoginPage,200,OK,User 1-27,text,true,,27738,383,21,21,https://www.banglapuzzle.com/login,608,0,324
+1672383323365,608,LoginPage-0,301,Moved Permanently,User 1-27,text,true,,953,128,21,21,http://www.banglapuzzle.com/login/,608,0,324
+1672383323973,328,LoginPage-1,301,Moved Permanently,User 1-27,text,true,,970,128,21,21,https://www.banglapuzzle.com/login/,328,0,0
+1672383324301,677,LoginPage-2,200,OK,User 1-27,text,true,,25815,127,21,21,https://www.banglapuzzle.com/login,676,0,0
+1672383322712,2410,HomePage,200,OK,User 1-53,text,true,,65503,244,20,20,https://www.banglapuzzle.com/,332,0,0
+1672383322712,332,HomePage-0,301,Moved Permanently,User 1-53,text,true,,947,122,20,20,http://www.banglapuzzle.com/,332,0,0
+1672383323044,2078,HomePage-1,200,OK,User 1-53,text,true,,64556,122,20,20,https://www.banglapuzzle.com/,775,0,0
+1672383320783,4387,HomePage,200,OK,User 1-94,text,true,,65503,244,20,20,https://www.banglapuzzle.com/,669,0,341
+1672383320783,669,HomePage-0,301,Moved Permanently,User 1-94,text,true,,947,122,20,20,http://www.banglapuzzle.com/,669,0,341
+1672383321452,3718,HomePage-1,200,OK,User 1-94,text,true,,64556,122,20,20,https://www.banglapuzzle.com/,1412,0,0
+1672383324710,627,LoginPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-82,text,false,,3551,128,20,20,https://www.banglapuzzle.com/login/,626,0,327
+1672383324710,626,LoginPage-0,301,Moved Permanently,User 1-82,text,true,,953,128,20,20,http://www.banglapuzzle.com/login/,626,0,327
+1672383325336,1,LoginPage-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-82,text,false,,2598,0,20,20,https://www.banglapuzzle.com/login/,0,0,0
+1672383322998,2651,LoginPage,200,OK,User 1-9,text,true,,27738,383,19,19,https://www.banglapuzzle.com/login,689,0,327
+1672383322998,689,LoginPage-0,301,Moved Permanently,User 1-9,text,true,,953,128,19,19,http://www.banglapuzzle.com/login/,689,0,327
+1672383323687,330,LoginPage-1,301,Moved Permanently,User 1-9,text,true,,970,128,19,19,https://www.banglapuzzle.com/login/,330,0,0
+1672383324017,1632,LoginPage-2,200,OK,User 1-9,text,true,,25815,127,19,19,https://www.banglapuzzle.com/login,1025,0,0
+1672383324584,1280,LoginPage,200,OK,User 1-93,text,true,,27738,383,18,18,https://www.banglapuzzle.com/login,341,0,0
+1672383324584,341,LoginPage-0,301,Moved Permanently,User 1-93,text,true,,953,128,18,18,http://www.banglapuzzle.com/login/,341,0,0
+1672383324926,290,LoginPage-1,301,Moved Permanently,User 1-93,text,true,,970,128,18,18,https://www.banglapuzzle.com/login/,290,0,0
+1672383325216,648,LoginPage-2,200,OK,User 1-93,text,true,,25815,127,18,18,https://www.banglapuzzle.com/login,608,0,0
+1672383324686,1327,LoginPage,200,OK,User 1-52,text,true,,27738,383,17,17,https://www.banglapuzzle.com/login,289,0,0
+1672383324686,289,LoginPage-0,301,Moved Permanently,User 1-52,text,true,,953,128,17,17,http://www.banglapuzzle.com/login/,289,0,0
+1672383324975,296,LoginPage-1,301,Moved Permanently,User 1-52,text,true,,970,128,17,17,https://www.banglapuzzle.com/login/,296,0,0
+1672383325271,742,LoginPage-2,200,OK,User 1-52,text,true,,25815,127,17,17,https://www.banglapuzzle.com/login,710,0,0
+1672383324296,1735,LoginPage,200,OK,User 1-57,text,true,,27738,383,16,16,https://www.banglapuzzle.com/login,688,0,363
+1672383324296,688,LoginPage-0,301,Moved Permanently,User 1-57,text,true,,953,128,16,16,http://www.banglapuzzle.com/login/,688,0,363
+1672383324984,335,LoginPage-1,301,Moved Permanently,User 1-57,text,true,,970,128,16,16,https://www.banglapuzzle.com/login/,335,0,0
+1672383325319,712,LoginPage-2,200,OK,User 1-57,text,true,,25815,127,16,16,https://www.banglapuzzle.com/login,705,0,0
+1672383323964,2068,LoginPage,200,OK,User 1-63,text,true,,27738,383,16,16,https://www.banglapuzzle.com/login,620,0,330
+1672383323964,620,LoginPage-0,301,Moved Permanently,User 1-63,text,true,,953,128,16,16,http://www.banglapuzzle.com/login/,620,0,330
+1672383324584,276,LoginPage-1,301,Moved Permanently,User 1-63,text,true,,970,128,16,16,https://www.banglapuzzle.com/login/,276,0,0
+1672383324860,1172,LoginPage-2,200,OK,User 1-63,text,true,,25815,127,16,16,https://www.banglapuzzle.com/login,884,0,0
+1672383321863,4467,HomePage,200,OK,User 1-20,text,true,,65503,244,14,14,https://www.banglapuzzle.com/,634,0,331
+1672383321863,634,HomePage-0,301,Moved Permanently,User 1-20,text,true,,947,122,14,14,http://www.banglapuzzle.com/,634,0,331
+1672383322497,3833,HomePage-1,200,OK,User 1-20,text,true,,64556,122,14,14,https://www.banglapuzzle.com/,1190,0,0
+1672383324422,1912,LoginPage,200,OK,User 1-89,text,true,,27738,383,14,14,https://www.banglapuzzle.com/login,600,0,290
+1672383324422,600,LoginPage-0,301,Moved Permanently,User 1-89,text,true,,953,128,14,14,http://www.banglapuzzle.com/login/,600,0,290
+1672383325022,313,LoginPage-1,301,Moved Permanently,User 1-89,text,true,,970,128,14,14,https://www.banglapuzzle.com/login/,313,0,0
+1672383325335,999,LoginPage-2,200,OK,User 1-89,text,true,,25815,127,14,14,https://www.banglapuzzle.com/login,677,0,0
+1672383324660,1678,LoginPage,200,OK,User 1-75,text,true,,27738,383,13,13,https://www.banglapuzzle.com/login,306,0,0
+1672383324660,306,LoginPage-0,301,Moved Permanently,User 1-75,text,true,,953,128,13,13,http://www.banglapuzzle.com/login/,306,0,0
+1672383324966,305,LoginPage-1,301,Moved Permanently,User 1-75,text,true,,970,128,13,13,https://www.banglapuzzle.com/login/,305,0,0
+1672383325271,1067,LoginPage-2,200,OK,User 1-75,text,true,,25815,127,13,13,https://www.banglapuzzle.com/login,742,0,0
+1672383325122,1431,LoginPage,200,OK,User 1-53,text,true,,27738,383,12,12,https://www.banglapuzzle.com/login,313,0,0
+1672383325122,313,LoginPage-0,301,Moved Permanently,User 1-53,text,true,,953,128,12,12,http://www.banglapuzzle.com/login/,313,0,0
+1672383325436,321,LoginPage-1,301,Moved Permanently,User 1-53,text,true,,970,128,12,12,https://www.banglapuzzle.com/login/,321,0,0
+1672383325757,796,LoginPage-2,200,OK,User 1-53,text,true,,25815,127,12,12,https://www.banglapuzzle.com/login,795,0,0
+1672383324836,1718,LoginPage,200,OK,User 1-38,text,true,,27738,383,12,12,https://www.banglapuzzle.com/login,287,0,0
+1672383324836,287,LoginPage-0,301,Moved Permanently,User 1-38,text,true,,953,128,12,12,http://www.banglapuzzle.com/login/,287,0,0
+1672383325123,313,LoginPage-1,301,Moved Permanently,User 1-38,text,true,,970,128,12,12,https://www.banglapuzzle.com/login/,312,0,0
+1672383325436,1118,LoginPage-2,200,OK,User 1-38,text,true,,25815,127,12,12,https://www.banglapuzzle.com/login,712,0,0
+1672383325170,1722,LoginPage,200,OK,User 1-94,text,true,,27738,383,10,10,https://www.banglapuzzle.com/login,294,0,0
+1672383325170,294,LoginPage-0,301,Moved Permanently,User 1-94,text,true,,953,128,10,10,http://www.banglapuzzle.com/login/,294,0,0
+1672383325464,310,LoginPage-1,301,Moved Permanently,User 1-94,text,true,,970,128,10,10,https://www.banglapuzzle.com/login/,310,0,0
+1672383325774,1118,LoginPage-2,200,OK,User 1-94,text,true,,25815,127,10,10,https://www.banglapuzzle.com/login,781,0,0
+1672383294185,32707,HomePage,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 31,568)",User 1-96,text,false,,2786,122,10,10,https://www.banglapuzzle.com/,686,0,311
+1672383294185,686,HomePage-0,301,Moved Permanently,User 1-96,text,true,,947,122,10,10,http://www.banglapuzzle.com/,686,0,311
+1672383294871,32021,HomePage-1,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 31,568)",User 1-96,text,false,,1839,0,10,10,https://www.banglapuzzle.com/,30752,0,691
+1672383293342,34170,HomePage,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 31,568)",User 1-13,text,false,,2786,122,9,9,https://www.banglapuzzle.com/,578,0,289
+1672383293342,582,HomePage-0,301,Moved Permanently,User 1-13,text,true,,947,122,9,9,http://www.banglapuzzle.com/,578,0,289
+1672383293926,33586,HomePage-1,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 31,568)",User 1-13,text,false,,1839,0,9,9,https://www.banglapuzzle.com/,18908,0,1005
+1672383311457,16439,HomePage,200,OK,User 1-19,text,true,,65503,244,9,9,https://www.banglapuzzle.com/,326,0,0
+1672383311457,326,HomePage-0,301,Moved Permanently,User 1-19,text,true,,947,122,9,9,http://www.banglapuzzle.com/,326,0,0
+1672383311783,16113,HomePage-1,200,OK,User 1-19,text,true,,64556,122,9,9,https://www.banglapuzzle.com/,12108,0,0
+1672383326331,1935,LoginPage,200,OK,User 1-20,text,true,,27738,383,9,9,https://www.banglapuzzle.com/login,558,0,0
+1672383326331,558,LoginPage-0,301,Moved Permanently,User 1-20,text,true,,953,128,9,9,http://www.banglapuzzle.com/login/,558,0,0
+1672383326889,353,LoginPage-1,301,Moved Permanently,User 1-20,text,true,,970,128,9,9,https://www.banglapuzzle.com/login/,353,0,0
+1672383327243,1023,LoginPage-2,200,OK,User 1-20,text,true,,25815,127,9,9,https://www.banglapuzzle.com/login,706,0,0
+1672383327897,623,LoginPage,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-19,text,false,,3551,128,8,8,https://www.banglapuzzle.com/login/,623,0,293
+1672383327897,623,LoginPage-0,301,Moved Permanently,User 1-19,text,true,,953,128,8,8,http://www.banglapuzzle.com/login/,623,0,293
+1672383328519,1,LoginPage-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.banglapuzzle.com:443 failed to respond,User 1-19,text,false,,2598,0,8,8,https://www.banglapuzzle.com/login/,0,0,0
+1672383326892,2211,LoginPage,200,OK,User 1-96,text,true,,27738,383,7,7,https://www.banglapuzzle.com/login,594,0,297
+1672383326892,594,LoginPage-0,301,Moved Permanently,User 1-96,text,true,,953,128,7,7,http://www.banglapuzzle.com/login/,594,0,297
+1672383327486,980,LoginPage-1,301,Moved Permanently,User 1-96,text,true,,970,128,7,7,https://www.banglapuzzle.com/login/,980,0,655
+1672383328465,637,LoginPage-2,200,OK,User 1-96,text,true,,25815,127,7,7,https://www.banglapuzzle.com/login,637,0,0
+1672383293668,35815,HomePage,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 15,208)",User 1-44,text,false,,2786,122,7,7,https://www.banglapuzzle.com/,694,0,340
+1672383293668,694,HomePage-0,301,Moved Permanently,User 1-44,text,true,,947,122,7,7,http://www.banglapuzzle.com/,694,0,340
+1672383294362,35121,HomePage-1,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 15,208)",User 1-44,text,false,,1839,0,7,7,https://www.banglapuzzle.com/,34820,0,611
+1672383327512,2163,LoginPage,200,OK,User 1-13,text,true,,27738,383,7,7,https://www.banglapuzzle.com/login,651,0,311
+1672383327512,651,LoginPage-0,301,Moved Permanently,User 1-13,text,true,,953,128,7,7,http://www.banglapuzzle.com/login/,651,0,311
+1672383328164,885,LoginPage-1,301,Moved Permanently,User 1-13,text,true,,970,128,7,7,https://www.banglapuzzle.com/login/,885,0,586
+1672383329048,626,LoginPage-2,200,OK,User 1-13,text,true,,25815,127,7,7,https://www.banglapuzzle.com/login,625,0,0
+1672383293926,36683,HomePage,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 63,380; received: 31,568)",User 1-70,text,false,,2786,122,7,7,https://www.banglapuzzle.com/,726,0,334
+1672383293926,726,HomePage-0,301,Moved Permanently,User 1-70,text,true,,947,122,7,7,http://www.banglapuzzle.com/,726,0,334
+1672383294664,35945,HomePage-1,
